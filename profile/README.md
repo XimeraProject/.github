@@ -17,4 +17,4 @@ users.
 With Ximera, authors use LaTeX to create their content. With this
 single source code, we generate different types of output:
 
-![Ximera generates a PDF worksheet, an online interactive worksheet, and a PDF solution manual.](./SimultaneousOutput.jpg "Single source code generates three different outputs.")
+![Ximera generates a PDF worksheet, an online interactive worksheet, and a PDF solution manual.](https://github.com/XimeraProject/.github/blob/main/profile/SimultaneousOutput.jpg "Single source code generates three different outputs.")
