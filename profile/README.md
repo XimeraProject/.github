@@ -75,8 +75,16 @@ solution that will provide grade data for all Ximera instructors.**
 There are a number of Ximera courses that are not yet deployed online.
 Their materials are currently only in PDF form. Instructors in this
 category are usually in a development phase of their Ximera
-course. The PDFs produced allow incremental develop- ment of the
-materials while still being used and tested in the classroom.
+course. The PDFs produced allow incremental development of the
+materials while still being used and tested in the classroom. See:
+
+* [Abstract Algebra I]()
+* [Advanced Geometry]()
+* [Math for Architects]()
+* [Math for Teachers]()
+* [History of Mathematics]()
+* [Business Calculus]()
+* [Linear Algebra and Differential Equations]()
 
 
 
