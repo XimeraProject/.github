@@ -8,8 +8,8 @@ assessments, and online courses. **The ultimate goal of this project is
 to promote sustained student success and savings.**
 
 
-Ximera is built with authors, instructors, and students in mind. It is
-our goal to provide an optimal work environment for all three types of
+Ximera is built with authors, instructors, and students in mind. We
+seek to provide an optimal work environment for all three types of
 users.
 
 ## Authors
@@ -18,3 +18,19 @@ With Ximera, authors use LaTeX to create their content. With this
 single source code, we generate different types of output:
 
 ![Ximera generates a PDF worksheet, an online interactive worksheet, and a PDF solution manual.](https://github.com/XimeraProject/.github/blob/main/profile/SimultaneousOutput.jpg "Single source code generates three different outputs.")
+
+To get started as an author in Ximera, all you need is the XimeraLatex
+LaTeX Package. Unfortunately, at this point, this package is not part
+of CTAN. However, you can manually install the package by 
+
+1. Getting a GitHub account
+2. Going to: [https://github.com/XimeraProject/ximeraLatex](XimeraLaTeX on GitHub)
+3. Clicking on the green code button: ![Click on the green code button.](https://github.com/XimeraProject/.github/blob/main/profile/codeButton.png "Click on the green code button.")
+
+
+
+
+## Instructors
+
+Instructors can use any Ximera text **without permission** from the
+authors.
