@@ -27,8 +27,18 @@
 	- Xourse files, do we complile course files?
 		- Maybe these could be compiled in the repo, as they are just lists of activities.
 	- Evaluators need to be hired.
+	- When do announcements need to go out for the 
+		- Stipends?
+		- Evaluators?
+		- Programmer?
+	- Need to add courses to https://github.com/XimeraProject
+	- Need to add "Releases" to PDF only ximera courses
+	- Add math and music as PDF only
 		
 # Week -7: 11/6/2023 - 11/10/2023
+	- Making github site: https://github.com/XimeraProject more
+      reasonable by ensuring that PDF's are created for releases.
+
 # Week -6: 11/13/2023 - 11/17/2023
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023

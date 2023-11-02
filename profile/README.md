@@ -28,6 +28,13 @@ Please feel free to contact Bart
 Snapp (`snapp.14@osu.edu`) with questions. 
 
 
+### Online Deployment
+
+Once you have some content, you will probably want to see how it works
+online. Currently, we only deploy from a single server. As part of our
+work, we seek to make this process seamless.
+
+
 
 ## Instructors
 
@@ -48,7 +55,7 @@ If an instructor experiences issues with the content or performance of the mater
 
 ![Buttons that link to GitHub issues.](https://github.com/XimeraProject/.github/blob/main/profile/getHelp.png "Buttons for help.")
 
-
+Morever, here is a list of [common solutions for student issues](https://github.com/XimeraProject/commonSolutions.md).
 
 The instructor experience falls into three basic categories:
 
@@ -95,3 +102,12 @@ Ximera materials are free. Students can use any of the materials they
 find, even if the student is not enrolled in a course. We hope that
 authors can use our materials to make the very best possible learning
 experience for students.
+
+
+
+
+
+
+## Current Development
+
+On January 1st, 
