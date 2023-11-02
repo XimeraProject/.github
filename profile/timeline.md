@@ -16,6 +16,7 @@
 		- Institution
 		- Brief description of work done
 		- Link to artifact of work
+		https://docs.google.com/forms/d/e/1FAIpQLSfKXtp9vRoGfh_TI0FNKB9uwFtcQmKl57nwEGoUz-QCsb3SIQ/viewform?usp=sf_link
 	- Met with Andrew Maier to discuss accessiblity.
 		- OSU is requiring a degree of accessibilty for all PhD Thesis.
 		- https://github.com/AndyClifton/accessibility

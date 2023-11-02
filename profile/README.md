@@ -56,7 +56,7 @@ If an instructor experiences issues with the content or performance of the mater
 ![Buttons that link to GitHub issues.](https://github.com/XimeraProject/.github/blob/main/profile/getHelp.png "Buttons for help.")
 
 Morever, here is a list of [common solutions for student issues](https://github.com/XimeraProject/.github/blob/main/profile/commonSolutions.md).
-Morever, here is a list of [common solutions for student issues](https://github.com/XimeraProject/.github/profile/commonSolutions.md).
+
 
 The instructor experience falls into three basic categories:
 
@@ -111,4 +111,4 @@ experience for students.
 
 ## Current Development
 
-On January 1st, 
+On January 1st, funding will begin for...
