@@ -35,10 +35,12 @@ At this point the installation becomes operating-system specific.
 
 ### Linux
 
-If you are using running linux, create the local structure `~\texmf\tex\latex`
+If you are running linux, create the local structure `~\texmf\tex\latex`
 
 ├── texmf
+
 ├───└── tex
+
 └───────└── latex
 
 
