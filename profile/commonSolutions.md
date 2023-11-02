@@ -25,12 +25,19 @@ Most problems viewing or accessing Ximera are caused by browser settings.  The e
 
 ## Work not being recorded
 This is almost always avoided by doing the following:
+
 	1. Log in to Carmen. If you've already been logged in for more than 3 hours, log out of Carmen and log back in.
+	
 	2. Go to "Assignments"
+	
 	3. Click on the Ximera assignment. It should show you a button to load the assignment in a new window.
+	
 	4. You should be at your assignment, and if you look in the upper corner (at least on a computer) it should say your name.
+	
 	5. Do your work.
+	
 	6. Click save before you leave a page. (You don't need to worry about it unless you leave the page)
+
 Your score will be submitted to Carmen within the hour.
 
 ## Math processing error
