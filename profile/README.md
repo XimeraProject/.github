@@ -23,32 +23,7 @@ To get started as an author in Ximera, all you need is the XimeraLatex
 LaTeX Package. Unfortunately, at this point, this package is not part
 of CTAN. However, you can manually. Please feel free to contact Bart
 Snapp with questions (snapp.14@osu.edu). Otherwise you can install the
-package by
-
-1. Getting a GitHub account
-2. Going to: [https://github.com/XimeraProject/ximeraLatex](XimeraLaTeX on GitHub)
-3. Clicking on the green code button: ![Click on the green code button.](https://github.com/XimeraProject/.github/blob/main/profile/codeButton.png "Click on the green code button.")
-4. Copying: `git@github.com:XimeraProject/ximeraLatex.git`
-5. Cloning the repository. 
-
-At this point the installation becomes operating-system specific.
-
-### Linux
-
-If you are running linux, create the local structure `~\texmf\tex\latex`
-
-├── texmf
-
-├───└── tex
-
-└───────└── latex
-
-
-### MacOS
-
-
-### Windows
-
+package by directions here 
 
 
 ## Instructors
