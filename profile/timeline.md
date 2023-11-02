@@ -2,17 +2,19 @@
 	- Grant awarded
 		
 # Week -8: 10/30/2023 - 11/3/2023
-	- Fowler and Snapp meet to plan.
 	- Programmers need to be hired
-		- Online deployment is most critical. Potential authors want
-          to see their work deployed online.
+	- Online deployment is most critical. Potential authors want
+		to see their work deployed online.
 	- We need a application for stipends. This could be done in a quadrix survey.
 		- Name
 		- Email
 		- Institution
 		- Brief description of planned work
-	- We also need a follow up, where the grantee gives 
-		- Brief description of work
+	- We also need a follow up, where the grantee gives
+		- Name
+		- Email
+		- Institution
+		- Brief description of work done
 		- Link to artifact of work
 	- Met with Andrew Maier to discuss accessiblity.
 		- OSU is requiring a degree of accessibilty for all PhD Thesis.
@@ -20,12 +22,10 @@
 		- https://libguides.lib.msu.edu/c.php?g=995742&p=8207771
 		- The situation for PDF accessibility seems dire. The smart
           people on stackexchange do not have a good solution. 		
-	- Making github site: https://github.com/XimeraProject more
-		reasonable.
+	- Making github site: https://github.com/XimeraProject more reasonable.
 	- Applied for a Minicourse at MathFest, see Week 32.
 	- Xourse files, do we complile course files?
-		- Maybe these could be compiled in the repo, as they are just
-          lists of activities.
+		- Maybe these could be compiled in the repo, as they are just lists of activities.
 	- Evaluators need to be hired.
 		
 # Week -7: 11/6/2023 - 11/10/2023
@@ -33,7 +33,10 @@
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
 # Week -3: 12/4/2023 - 12/8/2023
+
 # Week -2: 12/11/2023 - 12/15/2023
+	- Workshop (in lieu of a minicourse) MathFest application Due.
+
 # Week -1: 12/18/2023 - 12/22/2023
 # Week 0: 12/25/2023 - 12/29/2023
 # Week 1: 1/1/2024 - 1/5/2024
@@ -41,6 +44,7 @@
 	- Send out stipend application to consortium memebers.
 	- Hire programmer
 	- Hire evaluator
+	- JMM
 	
 # Week 2: 1/8/2024 - 1/12/2024
 # Week 3: 1/15/2024 - 1/19/2024
