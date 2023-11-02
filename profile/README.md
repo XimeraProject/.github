@@ -21,7 +21,7 @@ single source code, we generate different types of output:
 
 ![Ximera generates a PDF worksheet, an online interactive worksheet, and a PDF solution manual.](https://github.com/XimeraProject/.github/blob/main/profile/SimultaneousOutput.jpg "Single source code generates three different outputs.")
 
-To get started as an author in Ximera, all you need is the XimeraLatex
+To get started as an author in Ximera, all you need is the XimeraLaTeX
 LaTeX Package. Unfortunately, at this point, this package is not part
 of CTAN. However, you can find instructions for manual installation at the [XimeraLaTeX repository](https://github.com/XimeraProject/ximeraLatex#readme).
 Please feel free to contact Bart
@@ -31,5 +31,58 @@ Snapp (`snapp.14@osu.edu`) with questions.
 
 ## Instructors
 
-Instructors can use any Ximera content **without permission** from the
-authors.
+Instructors (who are not authors) can freely use any Ximera materials,
+**without permission**, simply by using the the URL of the
+course. Here is an incomplete list of Ximera courses that have been
+deployed online (authors, please feel free to add your course!)
+
+* [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1)
+* [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2)
+* [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3)
+
+
+
+
+If an instructor experiences issues with the content or performance of the materials, there are simple ways to report these issues. 
+
+
+![Buttons that link to GitHub issues.](https://github.com/XimeraProject/.github/blob/main/profile/getHelp.png "Buttons for help.")
+
+
+
+The instructor experience falls into three basic categories:
+
+
+### Online Materials with LMS Integration 
+
+At OSU and UF, instructors of large classes and a few others have
+Ximera assignments directly integrated into the Learning Management
+System (LMS). For these
+instructors, Ximera works seamlessly and invisibly.
+
+
+### Online Materials without LMS Integration 
+
+At other institutions using Ximera, instructors can use Ximera
+materials, and have their students complete various Ximera
+assignments.  However, data access prohibitively difficult for most
+instructors in this category. **We are currently working on finding a
+solution that will provide grade data for all Ximera instructors.**
+
+
+### PDF Materials 
+
+There are a number of Ximera courses that are not yet deployed online.
+Their materials are currently only in PDF form. Instructors in this
+category are usually in a development phase of their Ximera
+course. The PDFs produced allow incremental develop- ment of the
+materials while still being used and tested in the classroom.
+
+
+
+## Students
+
+Ximera materials are free. Students can use any of the materials they
+find, even if the student is not enrolled in a course. We hope that
+authors can use our materials to make the very best possible learning
+experience for students.
