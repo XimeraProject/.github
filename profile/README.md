@@ -24,8 +24,7 @@ single source code, we generate different types of output:
 To get started as an author in Ximera, all you need is the XimeraLaTeX
 LaTeX Package. Unfortunately, at this point, this package is not part
 of CTAN. However, you can find instructions for manual installation at the [XimeraLaTeX repository](https://github.com/XimeraProject/ximeraLatex#readme).
-Please feel free to contact Bart
-Snapp (`snapp.14@osu.edu`) with questions. 
+Please feel free to contact `ximera@math.osu.edu`) with questions. 
 
 
 ### Online Deployment

@@ -35,7 +35,9 @@
 	- Need to add courses to https://github.com/XimeraProject
 	- Need to add "Releases" to PDF only ximera courses
 	- Add math and music as PDF only
-		
+	- Got the Project Profile document (Due 12/31/2023 - Week 0)
+    - According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
+   
 # Week -7: 11/6/2023 - 11/10/2023
 	- Making github site: https://github.com/XimeraProject more
       reasonable by ensuring that PDF's are created for releases.
@@ -50,6 +52,8 @@
 
 # Week -1: 12/18/2023 - 12/22/2023
 # Week 0: 12/25/2023 - 12/29/2023
+	-Project Profile Document Due
+
 # Week 1: 1/1/2024 - 1/5/2024
 	- Funding period begins
 	- Send out stipend application to consortium memebers.
