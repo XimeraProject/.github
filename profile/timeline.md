@@ -39,9 +39,11 @@
     - According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
    
 # Week -7: 11/6/2023 - 11/10/2023
-	- Making github site: https://github.com/XimeraProject more
-      reasonable by ensuring that PDF's are created for releases.
-
+	[] Making github site: https://github.com/XimeraProject more
+      reasonable by ensuring that PDF's are created for releases. Make
+      "releases" for various ximera courses. Include READMEs
+	[] Meet with Program Director
+	
 # Week -6: 11/13/2023 - 11/17/2023
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
