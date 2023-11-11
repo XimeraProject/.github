@@ -71,6 +71,8 @@ Grade book interactive:
 - [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 - [HW 5](https://www.geogebra.org/classic)
 ```
+The "end date" would give us a time when we could email the instructor letting them know that we plan to delete the course data.
+
 ### A potential instructor (say a HS teacher) 
 - Makes an account
 - Uploads a (possibly pre-made) DOENET.md file
