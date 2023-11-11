@@ -2,94 +2,94 @@
 - Grant awarded
 		
 # Week -8: 10/30/2023 - 11/3/2023
-	- Programmers need to be hired
-	- Online deployment is most critical. Potential authors want
-		to see their work deployed online.
-	- We need a application for stipends. This could be done in a quadrix survey.
-		- Name
-		- Email
-		- Institution
-		- Brief description of planned work
-	- We also need a follow up, where the grantee gives
-		- Name
-		- Email
-		- Institution
-		- Brief description of work done
-		- Link to artifact of work
-		https://docs.google.com/forms/d/e/1FAIpQLSfKXtp9vRoGfh_TI0FNKB9uwFtcQmKl57nwEGoUz-QCsb3SIQ/viewform?usp=sf_link
-	- Met with Andrew Maier to discuss accessiblity.
-		- OSU is requiring a degree of accessibilty for all PhD Thesis.
-		- https://github.com/AndyClifton/accessibility
-		- https://libguides.lib.msu.edu/c.php?g=995742&p=8207771
-		- The situation for PDF accessibility seems dire. The smart
-          people on stackexchange do not have a good solution. 		
-	- Making github site: https://github.com/XimeraProject more reasonable.
-	- Applied for a Minicourse at MathFest, see Week 32.
-	- Xourse files, do we complile course files?
-		- Maybe these could be compiled in the repo, as they are just lists of activities.
-	- Evaluators need to be hired.
-	- When do announcements need to go out for the 
-		- Stipends?
-		- Evaluators?
-		- Programmer?
-	- Need to add courses to https://github.com/XimeraProject
-	- Need to add "Releases" to PDF only ximera courses
-	- Add math and music as PDF only
-	- Got the Project Profile document (Due 12/31/2023 - Week 0)
-    - According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
+- Programmers need to be hired
+- Online deployment is most critical. Potential authors want
+to see their work deployed online.
+- We need a application for stipends. This could be done in a quadrix survey.
+  - Name
+  - Email
+  - Institution
+  - Brief description of planned work
+- We also need a follow up, where the grantee gives
+  - Name
+  - Email
+  - Institution
+  - Brief description of work done
+  - Link to artifact of work
+  - https://docs.google.com/forms/d/e/1FAIpQLSfKXtp9vRoGfh_TI0FNKB9uwFtcQmKl57nwEGoUz-QCsb3SIQ/viewform?usp=sf_link
+- Met with Andrew Maier to discuss accessiblity.
+  - OSU is requiring a degree of accessibilty for all PhD Thesis.
+  - https://github.com/AndyClifton/accessibility
+  - https://libguides.lib.msu.edu/c.php?g=995742&p=8207771
+  - The situation for PDF accessibility seems dire. The smart
+	people on stackexchange do not have a good solution. 		
+- Making github site: https://github.com/XimeraProject more reasonable.
+- Applied for a Minicourse at MathFest, see Week 32.
+- Xourse files, do we complile course files?
+- Maybe these could be compiled in the repo, as they are just lists of activities.
+- Evaluators need to be hired.
+- When do announcements need to go out for the 
+  - Stipends?
+  - Evaluators?
+  - Programmer?
+- Need to add courses to https://github.com/XimeraProject
+- Need to add "Releases" to PDF only ximera courses
+- Add math and music as PDF only
+- Got the Project Profile document (Due 12/31/2023 - Week 0)
+- According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
    
 # Week -7: 11/6/2023 - 11/10/2023
-	[] Making github site: https://github.com/XimeraProject more
-      reasonable by ensuring that PDF's are created for releases. Make
-      "releases" for various ximera courses. Include READMEs
-	[] Meet with Program Director (Check in)
-	- Fowler and Snapp dicussed, accessiblity / tex4ht 
-	The issue is that \answer is fundamentally incompatible with tex4ht
-	- Met with DoeNet group -- 
-	Grade book interactive:
-	- Do you want a solidified course?
-	- Or one with the most up-to-dates
-	- Monotonic?
-	- MarkDown LMS
-	- DoeNetML 
-	```
-	# DOENET Course 
-	- An arbitrary course name
-	## Description
-	- Blah for Math is a course that is team taught at Happy and Sad View High Schhools. 
-	## Instructor
-	- Jane Doe
-	- John Mak
-	## Institution 
-	- Happy View High School
-	- Sad View High School
-	## Assignments
-	- [Prelecture](https://ximera.osu.edu/mooculus/calculus1/understandingFunctions/breakGround)
-	- [Graphing Assignment 1](https://www.desmos.com/calculator)
-	- [HW 2](https://www.geogebra.org)
-	- [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
-	- [HW 5](https://www.geogebra.org/classic)
-	```
+[] Making github site: https://github.com/XimeraProject more
+reasonable by ensuring that PDF's are created for releases. Make
+"releases" for various ximera courses. Include READMEs
+[] Meet with Program Director (Check in)
+- Fowler and Snapp dicussed, accessiblity / tex4ht 
+The issue is that \answer is fundamentally incompatible with tex4ht
+- Met with DoeNet group -- 
+Grade book interactive:
+- Do you want a solidified course?
+- Or one with the most up-to-dates
+- Monotonic?
+- MarkDown LMS
+- DoeNetML 
+```
+# DOENET Course 
+- An arbitrary course name
+## Description
+- Blah for Math is a course that is team taught at Happy and Sad View High Schools. 
+## Instructor
+- Jane Doe
+- John Mak
+## Institution 
+- Happy View High School
+- Sad View High School
+## Assignments
+- [Prelecture](https://ximera.osu.edu/mooculus/calculus1/understandingFunctions/breakGround)
+- [Graphing Assignment 1](https://www.desmos.com/calculator)
+- [HW 2](https://www.geogebra.org)
+- [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+- [HW 5](https://www.geogebra.org/classic)
+```
 	
 # Week -6: 11/13/2023 - 11/17/2023
-	- Oriten
+- Oritentation
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
 # Week -3: 12/4/2023 - 12/8/2023
 
 # Week -2: 12/11/2023 - 12/15/2023
-	- Workshop (in lieu of a minicourse) MathFest application Due.
+- Workshop (in lieu of a minicourse) MathFest application Due.
 
 # Week -1: 12/18/2023 - 12/22/2023
 # Week 0: 12/25/2023 - 12/29/2023
-	-Project Profile Document Due
+-Project Profile Document Due
 
 # Week 1: 1/1/2024 - 1/5/2024
-	- Funding period begins
-	- Send out stipend application to consortium memebers.
-	- Hire programmer
-	- Hire evaluator
-	- JMM
+- Funding period begins
+- Send out stipend application to consortium memebers.
+- Hire programmer
+- Hire evaluator
+- JMM
 	
 # Week 2: 1/8/2024 - 1/12/2024
 # Week 3: 1/15/2024 - 1/19/2024
