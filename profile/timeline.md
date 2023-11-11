@@ -1,5 +1,5 @@
 # Week -9: 10/23/2023 - 10/27/2023
-	- Grant awarded
+- Grant awarded
 		
 # Week -8: 10/30/2023 - 11/3/2023
 	- Programmers need to be hired
