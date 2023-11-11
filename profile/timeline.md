@@ -54,6 +54,8 @@ Grade book interactive:
 ```
 # DOENET Course 
 - An arbitrary course name
+## End Date
+- 12/31/2026
 ## Description
 - Blah for Math is a course that is team taught at Happy and Sad View High Schools. 
 ## Instructor
@@ -77,10 +79,13 @@ Grade book interactive:
 ### Students
 - login with email and code.
 - Click on buttons, goto links get grades. 
-
-
-
-	
+### Instructors retrive grades
+- login to gradebook
+- select course
+- make database query (we can have predefined ones)
+  E.G. Graphing Assignment 1, up to 10/30/24 13:34pm EST
+- Retrive a spreadsheet
+- Return grade data to students through traditional methods.
 # Week -6: 11/13/2023 - 11/17/2023
 - Oritentation
 # Week -5: 11/20/2023 - 11/24/2023
