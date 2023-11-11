@@ -51,7 +51,6 @@ Grade book interactive:
 - Or one with the most up-to-dates
 - Monotonic?
 - MarkDown LMS
-- DoeNetML 
 ```
 # DOENET Course 
 - An arbitrary course name
@@ -70,6 +69,17 @@ Grade book interactive:
 - [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 - [HW 5](https://www.geogebra.org/classic)
 ```
+### A potential instructor (say a HS teacher) 
+- Makes an account
+- Uploads a (possibly pre-made) DOENET.md file
+- Gets an email with a code (option to resend required)
+- sends code to students (with list of student emails)
+### Students
+- login with email and code.
+- Click on buttons, goto links get grades. 
+
+
+
 	
 # Week -6: 11/13/2023 - 11/17/2023
 - Oritentation
