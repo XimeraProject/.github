@@ -42,9 +42,37 @@
 	[] Making github site: https://github.com/XimeraProject more
       reasonable by ensuring that PDF's are created for releases. Make
       "releases" for various ximera courses. Include READMEs
-	[] Meet with Program Director
+	[] Meet with Program Director (Check in)
+	- Fowler and Snapp dicussed, accessiblity / tex4ht 
+	The issue is that \answer is fundamentally incompatible with tex4ht
+	- Met with DoeNet group -- 
+	Grade book interactive:
+	- Do you want a solidified course?
+	- Or one with the most up-to-dates
+	- Monotonic?
+	- MarkDown LMS
+	- DoeNetML 
+	```
+	# DOENET Course 
+	- An arbitrary course name
+	## Description
+	- Blah for Math is a course that is team taught at Happy and Sad View High Schhools. 
+	## Instructor
+	- Jane Doe
+	- John Mak
+	## Institution 
+	- Happy View High School
+	- Sad View High School
+	## Assignments
+	- [Prelecture](https://ximera.osu.edu/mooculus/calculus1/understandingFunctions/breakGround)
+	- [Graphing Assignment 1](https://www.desmos.com/calculator)
+	- [HW 2](https://www.geogebra.org)
+	- [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
+	- [HW 5](https://www.geogebra.org/classic)
+	```
 	
 # Week -6: 11/13/2023 - 11/17/2023
+	- Oriten
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
 # Week -3: 12/4/2023 - 12/8/2023
