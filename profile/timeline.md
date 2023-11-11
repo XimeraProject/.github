@@ -1,6 +1,5 @@
 # Week -9: 10/23/2023 - 10/27/2023
-- Grant awarded
-		
+- Grant awarded		
 # Week -8: 10/30/2023 - 11/3/2023
 - Programmers need to be hired
 - Online deployment is most critical. Potential authors want
@@ -37,20 +36,16 @@ to see their work deployed online.
 - Add math and music as PDF only
 - Got the Project Profile document (Due 12/31/2023 - Week 0)
 - According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
-   
 # Week -7: 11/6/2023 - 11/10/2023
-[] Making github site: https://github.com/XimeraProject more
+- Working onaking github site: https://github.com/XimeraProject more
 reasonable by ensuring that PDF's are created for releases. Make
 "releases" for various ximera courses. Include READMEs
-[] Meet with Program Director (Check in)
+- See https://github.com/mooculus/mathForArchitects
+- Emailed times to meet program director.
 - Fowler and Snapp dicussed, accessiblity / tex4ht 
 The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with DoeNet group -- 
-Grade book interactive:
-- Do you want a solidified course?
-- Or one with the most up-to-dates
-- Monotonic?
-- MarkDown LMS
+- Grade book course markdown mockup
 ```
 # DOENET Course 
 - An arbitrary course name
@@ -64,15 +59,14 @@ Grade book interactive:
 ## Institution 
 - Happy View High School
 - Sad View High School
-## Assignments
+# Assignments
 - [Prelecture](https://ximera.osu.edu/mooculus/calculus1/understandingFunctions/breakGround)
 - [Graphing Assignment 1](https://www.desmos.com/calculator)
 - [HW 2](https://www.geogebra.org)
 - [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 - [HW 5](https://www.geogebra.org/classic)
 ```
-The "end date" would give us a time when we could email the instructor letting them know that we plan to delete the course data.
-
+- The End Date would give us a time when we could email the instructor letting them know that we plan to delete/archive the course data. However, we might retain record of the course for evaluation purposes. The Description, Instructor, and Institution(s) are, I think essentially irrevelant, EXCEPT for the fact that when we email students, and create courses pages (which could just be the markdown above!) we will be assuring the student that they are in the right place to do their homework.
 ### A potential instructor (say a HS teacher) 
 - Makes an account
 - Uploads a (possibly pre-made) DOENET.md file
