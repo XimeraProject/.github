@@ -4,7 +4,7 @@
 - Programmers need to be hired
 - Online deployment is most critical. Potential authors want
 to see their work deployed online.
-- We need a application for stipends. This could be done in a quadrix survey.
+- We need a application for stipends. This could be done in a  survey.
   - Name
   - Email
   - Institution
@@ -16,15 +16,15 @@ to see their work deployed online.
   - Brief description of work done
   - Link to artifact of work
   - https://docs.google.com/forms/d/e/1FAIpQLSfKXtp9vRoGfh_TI0FNKB9uwFtcQmKl57nwEGoUz-QCsb3SIQ/viewform?usp=sf_link
-- Met with Andrew Maier to discuss accessiblity.
-  - OSU is requiring a degree of accessibilty for all PhD Thesis.
+- Met with Andrew Maier to discuss accessibility.
+  - OSU is requiring a degree of accessibility for all PhD Thesis.
   - https://github.com/AndyClifton/accessibility
   - https://libguides.lib.msu.edu/c.php?g=995742&p=8207771
   - The situation for PDF accessibility seems dire. The smart
-	people on stackexchange do not have a good solution. 		
+	people on stack exchange do not have a good solution. 		
 - Making github site: https://github.com/XimeraProject more reasonable.
 - Applied for a Minicourse at MathFest, see Week 32.
-- Xourse files, do we complile course files?
+- Xourse files, do we compile course files?
 - Maybe these could be compiled in the repo, as they are just lists of activities.
 - Evaluators need to be hired.
 - When do announcements need to go out for the 
@@ -37,15 +37,15 @@ to see their work deployed online.
 - Got the Project Profile document (Due 12/31/2023 - Week 0)
 - According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
 # Week -7: 11/6/2023 - 11/10/2023
-- Working onaking github site: https://github.com/XimeraProject more
+- Working on making github site: https://github.com/XimeraProject more
 reasonable by ensuring that PDF's are created for releases. Make
 "releases" for various ximera courses. Include READMEs
 - See https://github.com/mooculus/mathForArchitects
 - Emailed times to meet program director.
-- Fowler and Snapp dicussed, accessiblity / tex4ht 
+- Fowler and Snapp discussed, accessibility / tex4ht 
 The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with DoeNet group -- 
-- Grade book course markdown mockup
+- Grade book course markdown mock-up
 ```
 # DOENET Course 
 - An arbitrary course name
@@ -66,7 +66,10 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - [EC](https://www.youtube.com/playlist?list=YOUR_PLAYLIST_ID)
 - [HW 5](https://www.geogebra.org/classic)
 ```
-- The End Date would give us a time when we could email the instructor letting them know that we plan to delete/archive the course data. However, we might retain record of the course for evaluation purposes. The Description, Instructor, and Institution(s) are, I think essentially irrevelant, EXCEPT for the fact that when we email students, and create courses pages (which could just be the markdown above!) we will be assuring the student that they are in the right place to do their homework.
+- The End Date would give us a time when we could email the instructor letting them know that we plan to delete/archive the course data. However, we might retain record of the course for evaluation purposes. The Description, Instructor, and Institution(s) are, I think essentially irrelevant, EXCEPT for the fact that when we email students, and create courses pages (which could just be the markdown above!) we will be assuring the student that they are in the right place to do their homework.
+- Do assignments need release dates? Can they be added at a later
+  date? Maybe so... If they can simply be added to DoeNet.md file
+  after it's been submitted, that might work!
 ### A potential instructor (say a HS teacher) 
 - Makes an account
 - Uploads a (possibly pre-made) DOENET.md file
@@ -75,15 +78,15 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ### Students
 - login with email and code.
 - Click on buttons, goto links get grades. 
-### Instructors retrive grades
+### Instructors retrieve grades
 - login to gradebook
 - select course
 - make database query (we can have predefined ones)
   E.G. Graphing Assignment 1, up to 10/30/24 13:34pm EST
-- Retrive a spreadsheet
+- Retrieve a spreadsheet
 - Return grade data to students through traditional methods.
 # Week -6: 11/13/2023 - 11/17/2023
-- Oritentation
+- Orientation
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
 # Week -3: 12/4/2023 - 12/8/2023
@@ -97,7 +100,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
-- Send out stipend application to consortium memebers.
+- Send out stipend application to consortium members.
 - Hire programmer
 - Hire evaluator
 - JMM
