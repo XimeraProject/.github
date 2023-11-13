@@ -70,6 +70,11 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Do assignments need release dates? Can they be added at a later
   date? Maybe so... If they can simply be added to DoeNet.md file
   after it's been submitted, that might work!
+- **Issues** We need a way of describing EXACTLY which assignments are
+  part of a "column" in a gradebook. The path of the URL could be used
+  to do this (any assignment with the same starting path is part of
+  the column) BUT we also need ways of grouping assignments into a
+  single column.
 ### A potential instructor (say a HS teacher) 
 - Makes an account
 - Uploads a (possibly pre-made) DOENET.md file
