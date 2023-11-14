@@ -56,6 +56,9 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Instructor
 - Jane Doe
 - John Mak
+## Instructor Emails
+- doe@school.edu
+- mak@other-school.edu
 ## Institution 
 - Happy View High School
 - Sad View High School
@@ -82,16 +85,21 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - sends code to students (with list of student emails)
 ### Students
 - login with email and code.
-- Click on buttons, goto links get grades. 
+	- Click on buttons, goto links get grades. 
 ### Instructors retrieve grades
 - login to gradebook
-- select course
+- Select course (name/desc/inst are given by md file)
 - make database query (we can have predefined ones)
   E.G. Graphing Assignment 1, up to 10/30/24 13:34pm EST
 - Retrieve a spreadsheet
 - Return grade data to students through traditional methods.
 # Week -6: 11/13/2023 - 11/17/2023
-- Orientation
+- Discussions about DOENET LEAP GDB
+- Finding the denominators for the grades seems tricky
+- If we get this working we could make a fun video like:  https://youtu.be/4p8vqoIVESc
+  explaning that "ANY WEBSITE CAN BE AN ASSIGNMENT! Any Website? ANY WEBSITE!"
+- **Fowler and Snapp meet Program Director** 9am 11/15
+- **Orientation** 1:30-2:30 11/16
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
 # Week -3: 12/4/2023 - 12/8/2023
@@ -101,7 +109,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 
 # Week -1: 12/18/2023 - 12/22/2023
 # Week 0: 12/25/2023 - 12/29/2023
--Project Profile Document Due
+- **Project Profile Document Due**
 
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
