@@ -99,9 +99,12 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - If we get this working we could make a fun video like:  https://youtu.be/4p8vqoIVESc
   explaning that "ANY WEBSITE CAN BE AN ASSIGNMENT! Any Website? ANY WEBSITE!"
 - **Fowler and Snapp meet Program Director** 9am 11/15
+  - All budget changes need to be recorded
+  - No real restrictions on hiring
 - **Orientation** 1:30-2:30 11/16
 # Week -5: 11/20/2023 - 11/24/2023
 # Week -4: 11/27/2023 - 12/1/2023
+- **Project Profile Document NOT Due** but let's try to have it done anyway.
 # Week -3: 12/4/2023 - 12/8/2023
 
 # Week -2: 12/11/2023 - 12/15/2023
@@ -135,6 +138,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 16: 4/15/2024 - 4/19/2024
 # Week 17: 4/22/2024 - 4/26/2024
 # Week 18: 4/29/2024 - 5/3/2024
+- First quarterly report is due
 # Week 19: 5/6/2024 - 5/10/2024
 # Week 20: 5/13/2024 - 5/17/2024
 # Week 21: 5/20/2024 - 5/24/2024
@@ -149,8 +153,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 30: 7/22/2024 - 7/26/2024
 # Week 31: 7/29/2024 - 8/2/2024
 # Week 32: 8/5/2024 - 8/9/2024
-	- MathFest, 8/7/2024-8/24/2024
-	
+- MathFest, 8/7/2024-8/24/2024
 # Week 33: 8/12/2024 - 8/16/2024
 # Week 34: 8/19/2024 - 8/23/2024
 # Week 35: 8/26/2024 - 8/30/2024
