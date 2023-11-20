@@ -97,12 +97,25 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Discussions about DOENET LEAP GDB
 - Finding the denominators for the grades seems tricky
 - If we get this working we could make a fun video like:  https://youtu.be/4p8vqoIVESc
-  explaning that "ANY WEBSITE CAN BE AN ASSIGNMENT! Any Website? ANY WEBSITE!"
+  explaining that "ANY WEBSITE CAN BE AN ASSIGNMENT! Any Website? ANY WEBSITE!"
 - **Fowler and Snapp meet Program Director** 9am 11/15
   - All budget changes need to be recorded
   - No real restrictions on hiring
 - **Orientation** 1:30-2:30 11/16
+- Set up meeting with our authorized representative
+- Discussed gradebook at length.
+  - A Redis solution may be viable.
+  - Fowler drafted: https://docs.google.com/document/d/119Zo9SGgovmvdhwNtvOfuffweNBqxa8Bhe85TvwEtG4/
+- Thinking about evaluators.
+  - https://ncstrategic.com/index.html is a possibility
+  - Our counterparts at a non-ximera institution might be a good idea
+  - An interested teacher at a high school
+  - A committee might be good.
 # Week -5: 11/20/2023 - 11/24/2023
+- Meet with our authorized representative to discuss
+  - Stipends
+  - Evaluators
+  - Programmers
 # Week -4: 11/27/2023 - 12/1/2023
 - **Project Profile Document NOT Due** but let's try to have it done anyway.
 # Week -3: 12/4/2023 - 12/8/2023
@@ -192,6 +205,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 68: 4/14/2025 - 4/18/2025
 # Week 69: 4/21/2025 - 4/25/2025
 # Week 70: 4/28/2025 - 5/2/2025
+- **First quartely report due 4/30**
 # Week 71: 5/5/2025 - 5/9/2025
 # Week 72: 5/12/2025 - 5/16/2025
 # Week 73: 5/19/2025 - 5/23/2025
@@ -263,6 +277,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 139: 8/24/2026 - 8/28/2026
 # Week 140: 8/31/2026 - 9/4/2026
 # Week 141: 9/7/2026 - 9/11/2026
+- Plan no-cost extension (if applicable)
 # Week 142: 9/14/2026 - 9/18/2026
 # Week 143: 9/21/2026 - 9/25/2026
 # Week 144: 9/28/2026 - 10/2/2026
@@ -275,10 +290,11 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 151: 11/16/2026 - 11/20/2026
 # Week 152: 11/23/2026 - 11/27/2026
 # Week 153: 11/30/2026 - 12/4/2026
+- DEADLINE for no-cost extension
 # Week 154: 12/7/2026 - 12/11/2026
 # Week 155: 12/14/2026 - 12/18/2026
 # Week 156: 12/21/2026 - 12/25/2026
 # Week 157: 12/28/2026 - 12/31/2026
-	- Last day of funding
+- Last day of funding
 # Week 158: 1/1/2027
-	- Report is due in approximately 120 days
+- Report is due in approximately 120 days
