@@ -116,8 +116,15 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - Stipends
   - Evaluators
   - Programmers
+- Informed that all hiring will go through our HR and Fiscal Associate.
+- Developed AI-hardend PDF. Issue made on GitHub: https://github.com/XimeraProject/ximeraLatex/issues/100
+- Inquried about make-up/responsibilites of Evaluators. 
 # Week -4: 11/27/2023 - 12/1/2023
 - **Project Profile Document NOT Due** but let's try to have it done anyway.
+- A meeting is set up with Henry Griffy
+- We are considering potential evaluators
+- AI Hardening has run into issues: It didn't seem to stop students, nor is it invisible on browser PDF readers (but it is invisible in evince and MuPDF).
+
 # Week -3: 12/4/2023 - 12/8/2023
 
 # Week -2: 12/11/2023 - 12/15/2023
