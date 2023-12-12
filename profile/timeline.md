@@ -122,20 +122,41 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week -4: 11/27/2023 - 12/1/2023
 - **Project Profile Document NOT Due** but let's try to have it done anyway.
 - A meeting is set up with Henry Griffy
+  - See https://www.a11y-collective.com/blog/how-accessible-are-online-stores/
+  - See https://www.accessibilitychecker.org/blog/examples-of-ada-compliant-websites/
 - We are considering potential evaluators
 - AI Hardening has run into issues: It didn't seem to stop students, nor is it invisible on browser PDF readers (but it is invisible in evince and MuPDF).
-
+  - https://github.com/XimeraProject/AI-Harden
 # Week -3: 12/4/2023 - 12/8/2023
-
+- Contacted potential HS teacher evaluator. 
+  - May need to re-think budget.
+- Need to: Contact AB concerning evaluation and graduated stipends. 
+- Thu 12/7/2023 10:00 AM - 10:30 AM Meet with Henry Griffy
+  - See https://www.a11y-collective.com/blog/how-accessible-are-online-stores/
+  - See https://www.accessibilitychecker.org/blog/examples-of-ada-compliant-websites/
+  - Perhaps we need a new repo within the XimeraProject with examples
+    of accessible HTML?
+  - Talk to Kenneth Berglung
+  - Buttons on every page for changing formats. 
+	- At top from screen-reader pov. (Could it stay? and Move to bottom?)
+	- Describe current format and allow for changing at top.
+  - Gradebook assignmnet interface needs to be accessible
+  - Andrew Heckler (Grade database help)
+  - History like YouTube of viewed Ximera pages? Can we scan the browser history and then show a history?  
+- Thu 12/7/2023 Post-Award Risk Assessment Technical Assistance Webinar
+- a11y repo created.
+  - https://github.com/XimeraProject/a11y
 # Week -2: 12/11/2023 - 12/15/2023
 - Workshop (in lieu of a minicourse) MathFest application Due.
-
+  - Probably too late, and MAA might not like us applying for two
+    conflicting events.
 # Week -1: 12/18/2023 - 12/22/2023
 # Week 0: 12/25/2023 - 12/29/2023
 - **Project Profile Document Due**
 
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
+- Stipend for AB
 - Send out stipend application to consortium members.
 - Hire programmer
 - Hire evaluator
@@ -158,7 +179,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 16: 4/15/2024 - 4/19/2024
 # Week 17: 4/22/2024 - 4/26/2024
 # Week 18: 4/29/2024 - 5/3/2024
-- First quarterly report is due
+- **First quartely report due 4/30**
 # Week 19: 5/6/2024 - 5/10/2024
 # Week 20: 5/13/2024 - 5/17/2024
 # Week 21: 5/20/2024 - 5/24/2024
@@ -212,7 +233,6 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 68: 4/14/2025 - 4/18/2025
 # Week 69: 4/21/2025 - 4/25/2025
 # Week 70: 4/28/2025 - 5/2/2025
-- **First quartely report due 4/30**
 # Week 71: 5/5/2025 - 5/9/2025
 # Week 72: 5/12/2025 - 5/16/2025
 # Week 73: 5/19/2025 - 5/23/2025
