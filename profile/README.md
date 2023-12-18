@@ -61,7 +61,7 @@ deployed online (authors, please feel free to add your course!)
 
 #### Statistics
 
-[Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
+* [Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
 
 If an instructor experiences issues with the content or performance of the materials, there are simple ways to report these issues. 
 
