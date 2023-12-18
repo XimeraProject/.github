@@ -1,13 +1,18 @@
 # Welcome to the Ximera Project
 
-Ximera, pronounced “chimera,” (**X**imera: **I**nteractive, **M**athematics,
-**E**ducation, **R**esources, for **A**ll) is an open-source platform that
-provides tools for authoring and publishing (PDF and Online),
-open-source, interactive educational content, such as textbooks,
-assessments, and online courses.
-The Ximera Project is currently funded by U.S. Department of Education, through the [Open Textbooks Pilot Program](https://www2.ed.gov/programs/otp/index.html). The Ximera Project has also recieved support from NSF Grant DUE-1245433, the Shuttleworth Foundation, the Ohio State University Department of Mathematics, and the Affordable Learning Exchange at OSU.
- **The ultimate goal of this project is
-to promote sustained student success and savings.** 
+Ximera, pronounced “chimera,” (**X**imera: **I**nteractive,
+**M**athematics, **E**ducation, **R**esources, for **A**ll) is an
+open-source platform that provides tools for authoring and publishing
+(PDF and Online), open-source, interactive educational content, such
+as textbooks, assessments, and online courses.  The Ximera Project is
+funded 2024-2026 with (no other externqal funding) by a $2,125,000
+[Open Textbooks Pilot
+Program](https://www2.ed.gov/programs/otp/index.html) grant. In the
+past, the Ximera Project has also recieved support from NSF Grant
+DUE-1245433, the Shuttleworth Foundation, the Ohio State University
+Department of Mathematics, and the Affordable Learning Exchange at
+OSU.  **The ultimate goal of this project is to promote sustained
+student success and savings.**
 
 
 Ximera is built with authors, instructors, and students in mind. We
@@ -42,12 +47,21 @@ Instructors (who are not authors) can freely use any Ximera materials,
 course. Here is an incomplete list of Ximera courses that have been
 deployed online (authors, please feel free to add your course!)
 
-* [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1)
-* [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2)
-* [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3)
+### Courses in Ximera
 
+#### Calculus
 
+* [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1) and [source](https://github.com/mooculus/calculus)
+* [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2) and [source](https://github.com/mooculus/calculus)
+* [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3) and [source](https://github.com/mooculus/calculus)
 
+#### Linear Algebra
+
+* [Linear Algebra: An Interactive Introduction](https://ximera.osu.edu/oerlinalg/LinearAlgebra) and [source](https://github.com/annadavismath/LinearAlgebraV2)
+
+#### Statistics
+
+[Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
 
 If an instructor experiences issues with the content or performance of the materials, there are simple ways to report these issues. 
 

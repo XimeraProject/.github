@@ -150,9 +150,12 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Workshop (in lieu of a minicourse) MathFest application Due.
   - Probably too late, and MAA might not like us applying for two
     conflicting events.
+	- Met again with Henry Griffy, Jason Nowell, Eva Dale, Elizabeth Marsch, and others about accessibility
+- Rejected for MathFest MiniCourse
+- Submitted Draft of Project Profile
 # Week -1: 12/18/2023 - 12/22/2023
 # Week 0: 12/25/2023 - 12/29/2023
-- **Project Profile Document Due**
+- **Project Profile Document Due** (Draft submitted Week -2.)
 
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
