@@ -63,6 +63,10 @@ deployed online (authors, please feel free to add your course!)
 
 * [Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
 
+
+
+### Support
+
 If an instructor experiences issues with the content or performance of the materials, there are simple ways to report these issues. 
 
 
@@ -70,11 +74,15 @@ If an instructor experiences issues with the content or performance of the mater
 
 Morever, here is a list of [common solutions for student issues](https://github.com/XimeraProject/.github/blob/main/profile/commonSolutions.md).
 
+For other technical support, simply contact the developers at
+`ximera@math.osu.edu`.
+
+### Use in the classroom
 
 The instructor experience falls into three basic categories:
 
 
-### Online Materials with LMS Integration 
+#### Online Materials with LMS Integration 
 
 At OSU and UF, instructors of large classes and a few others have
 Ximera assignments directly integrated into the Learning Management
@@ -82,7 +90,7 @@ System (LMS). For these
 instructors, Ximera works seamlessly and invisibly.
 
 
-### Online Materials without LMS Integration 
+#### Online Materials without LMS Integration 
 
 At other institutions using Ximera, instructors can use Ximera
 materials, and have their students complete various Ximera
@@ -91,7 +99,7 @@ instructors in this category. **We are currently working on finding a
 solution that will provide grade data for all Ximera instructors.**
 
 
-### PDF Materials 
+#### PDF Materials 
 
 There are a number of Ximera courses that are not yet deployed online.
 Their materials are currently only in PDF form. Instructors in this
