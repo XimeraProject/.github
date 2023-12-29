@@ -153,8 +153,14 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 	- Met again with Henry Griffy, Jason Nowell, Eva Dale, Elizabeth Marsch, and others about accessibility
 - Rejected for MathFest MiniCourse
 - Submitted Draft of Project Profile
+- Emailed AB
 # Week -1: 12/18/2023 - 12/22/2023
+- Nowell, Fowler, and Snapp met to discuss accessibility
+- Proposed activity / stipend amount document drafted
+  - Perhaps can be broken into "creating" and "enhancing"
 # Week 0: 12/25/2023 - 12/29/2023
+- Octo-Lion Swag logo drafted
+- 
 - **Project Profile Document Due** (Draft submitted Week -2.)
 
 # Week 1: 1/1/2024 - 1/5/2024
