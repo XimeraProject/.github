@@ -160,8 +160,8 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - Perhaps can be broken into "creating" and "enhancing"
 # Week 0: 12/25/2023 - 12/29/2023
 - Octo-Lion Swag logo drafted
-- 
-- **Project Profile Document Due** (Draft submitted Week -2.)
+-
+- **Project Profile Document Due** (Draft submitted Week -2. Final submitted 12/29)
 
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
