@@ -165,11 +165,13 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
-- Stipend for AB
-- Send out stipend application to consortium members.
-- Hire programmer
-- Hire evaluator
-- JMM
+- Octo-Lion Swag logo done
+- Stipend for AB DONE
+- Send out stipend application to consortium members. DONE
+- Hire programmer (Not done)
+- Hire evaluator (Not done)
+  - Description of activies is being written. 
+- JMM 
 	
 # Week 2: 1/8/2024 - 1/12/2024
 # Week 3: 1/15/2024 - 1/19/2024
