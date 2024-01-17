@@ -136,7 +136,10 @@ On January 1st, fund
 
 
 
-The contents of this repository were developed under a grant from the
+
+## Disclaimer
+
+*The contents of this repository were developed under a grant from the
 Department of Education. However, those contents do not necessarily
 represent the policy of the Department of Education, and you should
-not assume endorsement by the Federal Government.
+not assume endorsement by the Federal Government.*
