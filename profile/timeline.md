@@ -168,13 +168,29 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Octo-Lion Swag logo done
 - Stipend for AB DONE
 - Send out stipend application to consortium members. DONE
+ - https://go.osu.edu/ximera-flash-grant
 - Hire programmer (Not done)
 - Hire evaluator (Not done)
+  - 1 candidate found
+  - met with candidate
   - Description of activies is being written. 
-- JMM 
-	
+- JMM 	
 # Week 2: 1/8/2024 - 1/12/2024
+- Evaluator selection and evalator job description
+  - Broken down by quarter for the first year
+  - 3 Canidates selected and contacted
+  - Met with two in meeting
+- Orca works with TeX in the Browser if we use '\ttfamily'
+- Meet and discussed TeX in Browser
+- Meet and discussed brining to market competitveness
+- TeX in the browser is \Huge
+- Confirmed quarterly report dates
+- Created promotional-art repo
 # Week 3: 1/15/2024 - 1/19/2024
+- Drafted Evaluator duties
+- Deployed Courses/contacted stipeds
+- Helped students (will be on going)
+
 # Week 4: 1/22/2024 - 1/26/2024
 # Week 5: 1/29/2024 - 2/2/2024
 # Week 6: 2/5/2024 - 2/9/2024

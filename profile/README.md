@@ -5,7 +5,7 @@ Ximera, pronounced “chimera,” (**X**imera: **I**nteractive,
 open-source platform that provides tools for authoring and publishing
 (PDF and Online), open-source, interactive educational content, such
 as textbooks, assessments, and online courses.  The Ximera Project is
-funded 2024-2026 with (no other externqal funding) by a $2,125,000
+funded 2024-2026 with (no other external funding) by a $2,125,000
 [Open Textbooks Pilot
 Program](https://www2.ed.gov/programs/otp/index.html) grant. In the
 past, the Ximera Project has also recieved support from NSF Grant
@@ -132,4 +132,11 @@ experience for students.
 
 ## Current Development
 
-On January 1st, funding will begin for...
+On January 1st, fund
+
+
+
+The contents of this repository were developed under a grant from the
+Department of Education. However, those contents do not necessarily
+represent the policy of the Department of Education, and you should
+not assume endorsement by the Federal Government.
