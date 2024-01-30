@@ -70,6 +70,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - [HW 5](https://www.geogebra.org/classic)
 ```
 - The End Date would give us a time when we could email the instructor letting them know that we plan to delete/archive the course data. However, we might retain record of the course for evaluation purposes. The Description, Instructor, and Institution(s) are, I think essentially irrelevant, EXCEPT for the fact that when we email students, and create courses pages (which could just be the markdown above!) we will be assuring the student that they are in the right place to do their homework.
+- There needs to be an option for "who can see this?" my students/all students
 - Do assignments need release dates? Can they be added at a later
   date? Maybe so... If they can simply be added to DoeNet.md file
   after it's been submitted, that might work!
@@ -162,7 +163,6 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Octo-Lion Swag logo drafted
 -
 - **Project Profile Document Due** (Draft submitted Week -2. Final submitted 12/29)
-
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
 - Octo-Lion Swag logo done
@@ -190,9 +190,20 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Drafted Evaluator duties
 - Deployed Courses/contacted stipeds
 - Helped students (will be on going)
-
+- **Needed: Data on devices/OS that use Ximera**
+- Initiated monthly meetings with https://www.when2meet.com/?23194278-7XiNI
+- Found appoved vendor for promotional items
 # Week 4: 1/22/2024 - 1/26/2024
+- Checked in with potential evaluators (3) 
+- set up "office hour" for Tues Jan 30th (4pm-5pm)
+- Met with potential programmer
+- Got lead for an additional programmer
+- Met to discuss TeX in the browser
 # Week 5: 1/29/2024 - 2/2/2024
+- Met with potential programmer
+- Gradebook? Who can see this? All students? My Studnets?
+- EG of gradebook: https://github.com/Doenet/service
+- First "office hour" Tues Jan 30th (4pm-5pm)
 # Week 6: 2/5/2024 - 2/9/2024
 # Week 7: 2/12/2024 - 2/16/2024
 # Week 8: 2/19/2024 - 2/23/2024
