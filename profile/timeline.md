@@ -204,7 +204,13 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Gradebook? Who can see this? All students? My Studnets?
 - EG of gradebook: https://github.com/Doenet/service
 - First "office hour" Tues Jan 30th (4pm-5pm)
-# Week 6: 2/5/2024 - 2/9/2024
+- 2 Potential programmers (Plan to Meet Fri 11am EST 2/9)
+- DVI2tty could help with accessibility
+- Reviewed Flash-grant applications (4/6 accepted without qualification) 
+# Week 6: 2/5/2024 - 2/9/202
+- NEED TO Set up payment for flash grant
+- NEED TO Set up next office hour
+- 2 Potential programmers (Meet Fri 11am EST 2/9)
 # Week 7: 2/12/2024 - 2/16/2024
 # Week 8: 2/19/2024 - 2/23/2024
 # Week 9: 2/26/2024 - 3/1/2024
