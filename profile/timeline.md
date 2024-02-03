@@ -45,7 +45,8 @@ reasonable by ensuring that PDF's are created for releases. Make
 - Fowler and Snapp discussed, accessibility / tex4ht 
 The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with DoeNet group -- 
-- Grade book course markdown mock-up
+- Grade book course markdown mock-up (this has been superseded by example here:  https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUFQc25zoRlEs3WDey51rOIBij3GwZ0Sunoa3e0w4HRzdg?e=ZP3bhP     )
+
 ```
 # DOENET Course 
 - An arbitrary course name
@@ -187,18 +188,20 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Confirmed quarterly report dates
 - Created promotional-art repo
 # Week 3: 1/15/2024 - 1/19/2024
-- Drafted Evaluator duties
+- Drafted Evaluator duties https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EX06Y6feKsFGvIXNFOutn3kBlsOiQqCliVs0kbye-tKqSg?e=glGLe9
 - Deployed Courses/contacted stipeds
 - Helped students (will be on going)
 - **Needed: Data on devices/OS that use Ximera**
 - Initiated monthly meetings with https://www.when2meet.com/?23194278-7XiNI
 - Found appoved vendor for promotional items
+- Purchased Monitors (x3)/Webcam
 # Week 4: 1/22/2024 - 1/26/2024
 - Checked in with potential evaluators (3) 
 - set up "office hour" for Tues Jan 30th (4pm-5pm)
 - Met with potential programmer
 - Got lead for an additional programmer
 - Met to discuss TeX in the browser
+- Purchased stickers (Critical Math, Mission Patch)
 # Week 5: 1/29/2024 - 2/2/2024
 - Met with potential programmer
 - Gradebook? Who can see this? All students? My Studnets?
@@ -206,11 +209,16 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - First "office hour" Tues Jan 30th (4pm-5pm)
 - 2 Potential programmers (Plan to Meet Fri 11am EST 2/9)
 - DVI2tty could help with accessibility
-- Reviewed Flash-grant applications (4/6 accepted without qualification) 
+- Reviewed Flash-grant applications 
+  - (4/6 accepted without qualification) 
+  - One clarified
+  - One postponed until a gradebook database can be deployed
 # Week 6: 2/5/2024 - 2/9/202
 - NEED TO Set up payment for flash grant
 - NEED TO Set up next office hour
 - 2 Potential programmers (Meet Fri 11am EST 2/9)
+- Drafted programmer duties https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUFQc25zoRlEs3WDey51rOIBij3GwZ0Sunoa3e0w4HRzdg?e=ZP3bhP
+
 # Week 7: 2/12/2024 - 2/16/2024
 # Week 8: 2/19/2024 - 2/23/2024
 # Week 9: 2/26/2024 - 3/1/2024
