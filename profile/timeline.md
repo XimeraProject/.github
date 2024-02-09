@@ -218,8 +218,11 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Set up next office hour https://www.when2meet.com/?23604050-iAZMf
 - 2 Potential programmers (Meet Fri 11am EST 2/9)
 - Drafted programmer duties https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUFQc25zoRlEs3WDey51rOIBij3GwZ0Sunoa3e0w4HRzdg?e=ZP3bhP
+- Sent programmers supplier form
+- Exhibitor Booth for MathFest Reserved, conf number P2NKC4J8JN6 MathFest 8/7--8/10 in Indianapolis.
+- Set up spreadsheet for stipends.
 # Week 7: 2/12/2024 - 2/16/2024
-- Need to make a shared document of projects. Spreadsheet
+
 # Week 8: 2/19/2024 - 2/23/2024
 # Week 9: 2/26/2024 - 3/1/2024
 # Week 10: 3/4/2024 - 3/8/2024
@@ -246,7 +249,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 # Week 30: 7/22/2024 - 7/26/2024
 # Week 31: 7/29/2024 - 8/2/2024
 # Week 32: 8/5/2024 - 8/9/2024
-- MathFest, 8/7/2024-8/24/2024
+- MathFest, 8/7/2024-8/24/2024, booth reserved, conf number P2NKC4J8JN6
 # Week 33: 8/12/2024 - 8/16/2024
 # Week 34: 8/19/2024 - 8/23/2024
 # Week 35: 8/26/2024 - 8/30/2024
