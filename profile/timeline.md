@@ -213,13 +213,13 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - (4/6 accepted without qualification) 
   - One clarified
   - One postponed until a gradebook database can be deployed
-# Week 6: 2/5/2024 - 2/9/202
-- NEED TO Set up payment for flash grant
-- NEED TO Set up next office hour
+# Week 6: 2/5/2024 - 2/9/2024
+- Set up payment for flash grant
+- Set up next office hour https://www.when2meet.com/?23604050-iAZMf
 - 2 Potential programmers (Meet Fri 11am EST 2/9)
 - Drafted programmer duties https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUFQc25zoRlEs3WDey51rOIBij3GwZ0Sunoa3e0w4HRzdg?e=ZP3bhP
-
 # Week 7: 2/12/2024 - 2/16/2024
+- Need to make a shared document of projects. Spreadsheet
 # Week 8: 2/19/2024 - 2/23/2024
 # Week 9: 2/26/2024 - 3/1/2024
 # Week 10: 3/4/2024 - 3/8/2024
