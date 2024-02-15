@@ -222,7 +222,12 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Exhibitor Booth for MathFest Reserved, conf number P2NKC4J8JN6 MathFest 8/7--8/10 in Indianapolis.
 - Set up spreadsheet for stipends.
 # Week 7: 2/12/2024 - 2/16/2024
-
+- Promotional stickers arrived
+- Meet with flash grant recipient, established workflow
+- Drafting "scope of work" programmers
+- Proof of concept of "Ximera digital puppet" https://github.com/XimeraProject/promotional-art/tree/master/octolion
+- Established "pain-points" of PDF publishing 
+  - TOC (sections within \sectionstyle, \chapterstyle)
 # Week 8: 2/19/2024 - 2/23/2024
 # Week 9: 2/26/2024 - 3/1/2024
 # Week 10: 3/4/2024 - 3/8/2024
