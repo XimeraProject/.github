@@ -162,7 +162,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - Perhaps can be broken into "creating" and "enhancing"
 # Week 0: 12/25/2023 - 12/29/2023
 - Octo-Lion Swag logo drafted
--
+- 
 - **Project Profile Document Due** (Draft submitted Week -2. Final submitted 12/29)
 # Week 1: 1/1/2024 - 1/5/2024
 - Funding period begins
@@ -229,7 +229,9 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Established "pain-points" of PDF publishing 
   - TOC (sections within \sectionstyle, \chapterstyle)
 # Week 8: 2/19/2024 - 2/23/2024
+- Meet with programmers
 # Week 9: 2/26/2024 - 3/1/2024
+- Ximera office hour
 # Week 10: 3/4/2024 - 3/8/2024
 # Week 11: 3/11/2024 - 3/15/2024
 # Week 12: 3/18/2024 - 3/22/2024
