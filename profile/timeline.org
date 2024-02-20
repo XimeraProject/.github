@@ -190,7 +190,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Drafted Evaluator duties https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EX06Y6feKsFGvIXNFOutn3kBlsOiQqCliVs0kbye-tKqSg?e=glGLe9
 - Deployed Courses/contacted stipeds
 - Helped students (will be on going)
-- **Needed: Data on devices/OS that use Ximera**
+- Needed: Data on devices/OS that use Ximera
 - Initiated monthly meetings with https://www.when2meet.com/?23194278-7XiNI
 - Found appoved vendor for promotional items
 - Purchased Monitors (x3)/Webcam
@@ -229,6 +229,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - TOC (sections within \sectionstyle, \chapterstyle)
 * Week 8: 2/19/2024 - 2/23/2024
 - Meet with programmers
+- Looking for device use data: Check back
 - Contacted by user at Yale, who is patching xake.
 - Worked with flash grant recipient
 - Mailed stickers to programmers
@@ -239,6 +240,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - NEED send stickers evaluators
 - NEED send stickers Program Director
 - Attended OTP office hours
+- Should plan to email AB an update prior to the 1st QR
 * Week 9: 2/26/2024 - 3/1/2024
 - Ximera office hour
 * Week 10: 3/4/2024 - 3/8/2024
