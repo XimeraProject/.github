@@ -228,7 +228,6 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Established "pain-points" of PDF publishing 
   - TOC (sections within \sectionstyle, \chapterstyle)
 * Week 8: 2/19/2024 - 2/23/2024
-- Meet with programmers
 - Looking for device use data: Check back
 - Contacted by user at Yale, who is patching xake.
   - Docker as fallback
@@ -236,10 +235,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Mailed stickers to programmers
 - Working with JN on TOC issues
 - NEED TO APPLY TO: YOU Belong in STEM 2024 Call for Proposals: Deadline March 1, 2024
-- NEED to email evaluators
-  - done but do it one more time.
-- NEED to meet with DoeNet developers
-- NEED send stickers evaluators
+- Emailed Evaluators
 - Sent stickers Program Director
 - Attended OTP office hours
 - Should plan to email AB an update prior to the 1st QR
@@ -247,6 +243,14 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 * Week 9: 2/26/2024 - 3/1/2024
 - Meet with programmers
 - Ximera office hour
+- Designed DOENet LEAP Mission Patch
+- Confirmed all evaluators 
+- Working with HR to Pay evaluators
+- Meet with programmers
+- Connections to Donet ML
+- NEED to meet with DoeNet developers
+- NEED send stickers evaluators
+- NEED TO APPLY TO: YOU Belong in STEM 2024 Call for Proposals: Deadline March 1, 2024
 * Week 10: 3/4/2024 - 3/8/2024
 * Week 11: 3/11/2024 - 3/15/2024
 * Week 12: 3/18/2024 - 3/22/2024
