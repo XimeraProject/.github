@@ -1,16 +1,17 @@
-# Calculus 1 (an arbitrary course name)
-### Description
+(this must be understandable/usable on a phone)
+# Calculus 1 (an arbitrary course name, this file is disambugated as it is hosted on a unique github repo)
+### Description (an abstract, describing the course)
 BGU's (Big State University) Calculus 1 Course. Differential and integral calculus of one real variable. Prereq: A grade of C- or above in 1148 and 1149, or in 1144, 1150, or 150, or Math Placement Level L. (NOTE: pilot program courses Math 1120-1121 completed with C- or better also permitted as pre-requisite). Not open to students with credit for 1152 or 152.xx, or above. This course is available for EM credit. GE quant reason math and logical anly course.
 
-### Enrollment
+### Enrollment (it would be cool to have numbers here... but I was envisioning these creating buttons that students push)
 - Independent 
 - Passcode 
 
-### Institutions
-- Happy View High School
+### Institution (different institutions should simply fork the course.md file --- what about "no institution?")
 - Glad View Community Colleg
+- [logo]{Link to a school logo} (maybe the no-institution logo is the earth?)
 
-[x] Previously completed assignments must be repeated.
+[x] Assignments completed from previous courses must be repeated. (This is some sort of setting)
 
 ## Assignments
 ### Due 1/3/2024 at 24:00 (timezone!?)
