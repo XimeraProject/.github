@@ -13,8 +13,8 @@ BGU's (Big State University) Calculus 1 Course. Differential and integral calcul
 
 
 ## Assignments
-[x] Assignments completed from previous courses must be repeated. (This is some sort of setting)
-[80%] Of a YouTube video needs to be watched for completion
+- [x] Assignments completed from previous courses must be repeated. (This is some sort of setting)
+- [80%] Of a YouTube video needs to be watched for completion
 
 ### Grades will be recorded from BLAH to BLAH
 ### Due 1/3/2024 at 24:00 (timezone!?)
