@@ -11,9 +11,12 @@ BGU's (Big State University) Calculus 1 Course. Differential and integral calcul
 - Glad View Community Colleg
 - [logo]{Link to a school logo} (maybe the no-institution logo is the earth?)
 
-[x] Assignments completed from previous courses must be repeated. (This is some sort of setting)
 
 ## Assignments
+[x] Assignments completed from previous courses must be repeated. (This is some sort of setting)
+[80%] Of a YouTube video needs to be watched for completion
+
+### Grades will be recorded from BLAH to BLAH
 ### Due 1/3/2024 at 24:00 (timezone!?)
 - [Prelecture](https://ximera.osu.edu/mooculus/calculus1/understandingFunctions/breakGround)
 - [Graphing Assignment 1](https://www.desmos.com/calculator)

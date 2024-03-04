@@ -248,8 +248,8 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Meet with programmers
 - Connections to Donet ML
 - Plans with DoeNet developers
-- User Needs document created
-- Mockup of MD for course created
+- User Needs document created https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUEg5mxF40RLtFYFgXFxlhQBH2bTYKt4RzHRN2QKSJZOHA?e=JE3grK
+- Mockup of MD for course created https://github.com/XimeraProject/.github/blob/main/profile/coursePrototype.md
 * Week 10: 3/4/2024 - 3/8/2024
 - awarded flash grants 
 - Meeting with DOENet ML
