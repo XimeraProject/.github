@@ -234,7 +234,6 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Worked with flash grant recipient
 - Mailed stickers to programmers
 - Working with JN on TOC issues
-- NEED TO APPLY TO: YOU Belong in STEM 2024 Call for Proposals: Deadline March 1, 2024
 - Emailed Evaluators
 - Sent stickers Program Director
 - Attended OTP office hours
@@ -248,10 +247,14 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Working with HR to Pay evaluators
 - Meet with programmers
 - Connections to Donet ML
-- NEED to meet with DoeNet developers
-- NEED send stickers evaluators
-- NEED TO APPLY TO: YOU Belong in STEM 2024 Call for Proposals: Deadline March 1, 2024
+- Plans with DoeNet developers
+- User Needs document created
+- Mockup of MD for course created
 * Week 10: 3/4/2024 - 3/8/2024
+- awarded flash grants 
+- Meeting with DOENet ML
+- send stickers to flash grant awards
+- send stickers evaluators
 * Week 11: 3/11/2024 - 3/15/2024
 * Week 12: 3/18/2024 - 3/22/2024
 * Week 13: 3/25/2024 - 3/29/2024
