@@ -255,8 +255,21 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Meeting with DOENet ML
 - send stickers to flash grant awards
 - send stickers evaluators
+- Grade DB with when2meet interface discussed
+- https://www.numbas.org.uk/
+- https://set.kuleuven.be/voorkennis/zc-en/prep/rekenen/breuken
+- Working on getting evaluators paid
 * Week 11: 3/11/2024 - 3/15/2024
+- Meet KU Leuven 
+- Talk to potential evaluator
+- Met with Fowler
+- Drafting Evaluator Scope of work
 * Week 12: 3/18/2024 - 3/22/2024
+- Worked with HR to hire programmers
+- Worked with HR to hire evaluators
+- Met with researcher in Online Courseware
+- Met with Yale, KU Leuven, U. Florida, concerning docker and ximeraLatex
+- Inital planning for XV1 (Ximera Virtural Workshop) Docker, and XimeraLaTeX to CTAN
 * Week 13: 3/25/2024 - 3/29/2024
 * Week 14: 4/1/2024 - 4/5/2024
 * Week 15: 4/8/2024 - 4/12/2024
