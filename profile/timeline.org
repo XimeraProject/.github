@@ -270,9 +270,29 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with researcher in Online Courseware
 - Met with Yale, KU Leuven, U. Florida, concerning docker and ximeraLatex
 - Inital planning for XV1 (Ximera Virtural Workshop) Docker, and XimeraLaTeX to CTAN
+- XV1 and XV2 documents drafted
+- la-carte linear algebra minicourses conceived
 * Week 13: 3/25/2024 - 3/29/2024
+- Working with HR to get programmers hired 
+- Working with HR to get first evaluator hired
+- Drafted XV1 plan in https://github.com/XimeraProject/workshops
+- Planning Linear Algebra a la carte
+- All key participants of XV1 and XV2 are on board
 * Week 14: 4/1/2024 - 4/5/2024
+- Working with HR to get programmers hired 
+- Working with HR to get first evaluator hired 
+- Learned of MathFest Event
+- Programmers hung up. More bids needed
+- Ximera off hours
+- la-carte
+- set times for XV1
 * Week 15: 4/8/2024 - 4/12/2024
+- Met with scalac.io (twice, marking and engineers)
+- Try to help PZ deploy (SSH issues)
+- Try to help CM deploy
+- Discussed various short courses
+- Applied for talk at MathFest
+- Set up meetings with new schools
 * Week 16: 4/15/2024 - 4/19/2024
 * Week 17: 4/22/2024 - 4/26/2024
 * Week 18: 4/29/2024 - 5/3/2024
