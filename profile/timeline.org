@@ -294,7 +294,15 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Applied for talk at MathFest
 - Set up meetings with new schools
 * Week 16: 4/15/2024 - 4/19/2024
+- JF, DG, BS, discussed short courses. 
+- Met with scalac, got proposal, limited scope of work.
+- Met with Dennison for potential collaboration
+- Set up meeting with infomics
+- Reached out to Paul
+- Meet with collaborator on short LA
+- Attempting to hire OSU evaluator
 * Week 17: 4/22/2024 - 4/26/2024
+- Meet with infomics
 * Week 18: 4/29/2024 - 5/3/2024
 - **First quartely report due 4/30**
 * Week 19: 5/6/2024 - 5/10/2024
