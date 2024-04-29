@@ -303,13 +303,23 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Attempting to hire OSU evaluator
 * Week 17: 4/22/2024 - 4/26/2024
 - Meet with infomics
+- Working to hire evaluator!
+- https://www.when2meet.com/?24763363-vyRhd
+- Scheduled Monthly meeting
+- Contacted AB
+- PM has detailed comments
+- Send info to both scalac and infomics
+- Wrote more detailed hiring info for data specialist
 * Week 18: 4/29/2024 - 5/3/2024
 - **First quartely report due 4/30**
+- Email P. Zachlin about Flash Grant Stipend
+- Email A. Davis about Flash Grant Stipend
 * Week 19: 5/6/2024 - 5/10/2024
 * Week 20: 5/13/2024 - 5/17/2024
 * Week 21: 5/20/2024 - 5/24/2024
 * Week 22: 5/27/2024 - 5/31/2024
 * Week 23: 6/3/2024 - 6/7/2024
+- Email C. Merriman about Flash Grant Stipend
 * Week 24: 6/10/2024 - 6/14/2024
 * Week 25: 6/17/2024 - 6/21/2024
 * Week 26: 6/24/2024 - 6/28/2024
@@ -324,6 +334,8 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 * Week 34: 8/19/2024 - 8/23/2024
 * Week 35: 8/26/2024 - 8/30/2024
 * Week 36: 9/2/2024 - 9/6/2024
+- Email P. Fatheddin about Flash Grant Stipend
+- Email J. Sheldon about Flash Grant Stipend
 * Week 37: 9/9/2024 - 9/13/2024
 * Week 38: 9/16/2024 - 9/20/2024
 * Week 39: 9/23/2024 - 9/27/2024
@@ -340,8 +352,10 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 * Week 49: 12/2/2024 - 12/6/2024
 * Week 50: 12/9/2024 - 12/13/2024
 * Week 51: 12/16/2024 - 12/20/2024
+- Email A. Incognito about Flash Grant Stipend
 * Week 52: 12/23/2024 - 12/27/2024
 * Week 53: 12/30/2024 - 1/3/2025
+- Email W. Obbels about Flash Grant Stipend
 * Week 54: 1/6/2025 - 1/10/2025
 * Week 55: 1/13/2025 - 1/17/2025
 * Week 56: 1/20/2025 - 1/24/2025
