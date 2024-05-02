@@ -59,7 +59,7 @@ deployed online (authors, please feel free to add your course!)
 
 * [Linear Algebra: An Interactive Introduction](https://ximera.osu.edu/oerlinalg/LinearAlgebra) and [source](https://github.com/annadavismath/LinearAlgebraV2)
 * [Linear Algebra and Ordinary Differential Equations](https://ximera.osu.edu/laode) and [source](https://github.com/mooculus/laode)
-* [Linear Algebra and Ordinary Differential Equations](https://ximera.osu.edu/linearAlgebra) and [source](https://github.com/mooculus/linearAlgebra)
+* [This is Linear Algebra](https://ximera.osu.edu/linearAlgebra) and [source](https://github.com/mooculus/linearAlgebra)
 
 
 #### Statistics
