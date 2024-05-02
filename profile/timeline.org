@@ -314,6 +314,14 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - **First quartely report due 4/30**
 - Email P. Zachlin about Flash Grant Stipend
 - Email A. Davis about Flash Grant Stipend
+- Ximera Monthly Meeting
+- One step further to programmers
+- recieved Scalac proposal to meet
+- Met AB
+- XV1 Begins
+- Meet with Authors/Developers 
+- PM Suggest when2meet model to difficult for average teacher.
+  - Further suggest -- direct LTI integration with off the shelf solution for small cases
 * Week 19: 5/6/2024 - 5/10/2024
 * Week 20: 5/13/2024 - 5/17/2024
 * Week 21: 5/20/2024 - 5/24/2024
