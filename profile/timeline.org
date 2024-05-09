@@ -323,6 +323,10 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - PM Suggest when2meet model to difficult for average teacher.
   - Further suggest -- direct LTI integration with off the shelf solution for small cases
 * Week 19: 5/6/2024 - 5/10/2024
+- XV1
+  - Combined document classes from UF, OSU, KU Leuven
+  - Added features to Ximera documentclass
+  - submitted the document class to CTAN
 * Week 20: 5/13/2024 - 5/17/2024
 * Week 21: 5/20/2024 - 5/24/2024
 * Week 22: 5/27/2024 - 5/31/2024
