@@ -328,7 +328,21 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - Added features to Ximera documentclass
   - submitted the document class to CTAN
 * Week 20: 5/13/2024 - 5/17/2024
+- AD gave us this: 
+  Englebrecht, J., & Harding, A. (2005). Teaching undergraduate mathematics on the internet. Part 1: Technologies and taxonomy. Educational Studies in Mathematics, 58, p. 235-252.
+- Fixed critical bug in cls
+- Created Makefile for CTAN deploy
+- Met with University of Cincinnati
+- Met with Embry-Riddle Aeronautical University
+- Critical bug in OSU tikz deploy found
+  - we belive it is in the CLS -- however, patching ximera.cls did not solve the problem
+  - we belive upgrading the OSU server to Ubuntu 18.04.6 LTS (Bionic Beaver) will solve the issue
+- la-carte linear algebra course is official at OSU
 * Week 21: 5/20/2024 - 5/24/2024
+- Working on la-carte linear algebra 
+- Met with WO for talk at TUG 2024
+- Still working on programmers
+- WO suggestion that when "answered" that we replace with what the author types.
 * Week 22: 5/27/2024 - 5/31/2024
 * Week 23: 6/3/2024 - 6/7/2024
 - Email C. Merriman about Flash Grant Stipend
