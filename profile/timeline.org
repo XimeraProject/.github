@@ -344,9 +344,23 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Still working on programmers
 - WO suggestion that when "answered" that we replace with what the author types.
 * Week 22: 5/27/2024 - 5/31/2024
+- Working on la-carte linear algebra
+- Ximera Evaluators paperwork known
+- Travel to TUG 2024
 * Week 23: 6/3/2024 - 6/7/2024
 - Email C. Merriman about Flash Grant Stipend
 * Week 24: 6/10/2024 - 6/14/2024
+- Met with Doenet about LEAP gradebook
+- Met with AD and PZ primariy 
+  - To show https://ximera.osu.edu/linearalgebrav3
+  - Discussed editorial review. AD and Snapp have started
+    https://github.com/XimeraProject/editorialReview
+    with the goal of making an objective review rubric
+  - Need for bringing to market level competitiveness: 
+    - GitLab Docker stuff
+    - Easy print styles
+    - see: https://sites.google.com/view/lin-alg-interactive-intro/home
+- Met Fowler
 * Week 25: 6/17/2024 - 6/21/2024
 * Week 26: 6/24/2024 - 6/28/2024
 * Week 27: 7/1/2024 - 7/5/2024
@@ -376,6 +390,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 * Week 47: 11/18/2024 - 11/22/2024
 * Week 48: 11/25/2024 - 11/29/2024
 * Week 49: 12/2/2024 - 12/6/2024
+- Jason Nowell New validators
 * Week 50: 12/9/2024 - 12/13/2024
 * Week 51: 12/16/2024 - 12/20/2024
 - Email A. Incognito about Flash Grant Stipend
