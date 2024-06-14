@@ -360,7 +360,12 @@ The issue is that \answer is fundamentally incompatible with tex4ht
     - GitLab Docker stuff
     - Easy print styles
     - see: https://sites.google.com/view/lin-alg-interactive-intro/home
+- installed docker
+- Projec Hydra: instructions for deploying in Docker  
 - Met Fowler
+- Met JN
+- Programmers
+- Met HR concerning evaluators
 * Week 25: 6/17/2024 - 6/21/2024
 * Week 26: 6/24/2024 - 6/28/2024
 * Week 27: 7/1/2024 - 7/5/2024
@@ -368,8 +373,10 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 * Week 29: 7/15/2024 - 7/19/2024
 * Week 30: 7/22/2024 - 7/26/2024
 * Week 31: 7/29/2024 - 8/2/2024
+- **Second quartely report due 7/30**
 * Week 32: 8/5/2024 - 8/9/2024
 - MathFest, 8/7/2024-8/24/2024, booth reserved, conf number P2NKC4J8JN6
+
 * Week 33: 8/12/2024 - 8/16/2024
 * Week 34: 8/19/2024 - 8/23/2024
 * Week 35: 8/26/2024 - 8/30/2024
