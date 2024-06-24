@@ -1,5 +1,4 @@
 # Timeline of Ximera Activity
-
 ## Week -9: 10/23/2023 - 10/27/2023
 - Grant awarded		
 ## Week -8: 10/30/2023 - 11/3/2023
@@ -388,7 +387,6 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - gpg keys are current hang up.
 - Next steps: ./build.sh serve
   - check precalc/calc/annaDavis
-
 ## Week 26: 6/24/2024 - 6/28/2024
 - Immediate work: Test docker on la-carte, Anna Davis, precalc
   - Once this works, we need to set up for multiple deploy
@@ -402,7 +400,6 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - **Second quartely report due 7/30**
 ## Week 32: 8/5/2024 - 8/9/2024
 - MathFest, 8/7/2024-8/24/2024, booth reserved, conf number P2NKC4J8JN6
-
 ## Week 33: 8/12/2024 - 8/16/2024
 ## Week 34: 8/19/2024 - 8/23/2024
 ## Week 35: 8/26/2024 - 8/30/2024
