@@ -141,7 +141,7 @@ Ximera is maintained by a community of people.
 * [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
 * [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
 * [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX development)
-* [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/Deployment Development)
+* [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
 
 
 In May of 2024, the Ximera Document Class was submitted to CTAN.
