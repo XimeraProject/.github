@@ -1,6 +1,6 @@
 # Welcome to the Ximera Project
 
-Ximera, pronounced “chimera,” (**X**imera: **I**nteractive,
+Ximera, pronounced "chimera," (**X**imera: **I**nteractive,
 **M**athematics, **E**ducation, **R**esources, for **A**ll) is an
 open-source platform that provides tools for authoring and publishing
 (PDF and Online), open-source, interactive educational content, such
@@ -43,7 +43,7 @@ work, we seek to make this process seamless.
 ## Instructors
 
 Instructors (who are not authors) can freely use any Ximera materials,
-**without permission**, simply by using the the URL of the
+**without permission**, simply by using the URL of the
 course. Here is an incomplete list of Ximera courses that have been
 deployed online (authors, please feel free to add your course!)
 
@@ -135,7 +135,16 @@ experience for students.
 
 ## Current Development
 
-On January 1st, fund
+
+Ximera is maintained by a community of people.  
+
+* [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
+* [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
+* [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX development)
+* [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/Deployment Development)
+
+
+In May of 2024, the Ximera Document Class was submitted to CTAN.
 
 
 
