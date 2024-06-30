@@ -144,7 +144,7 @@ Ximera is maintained by a community of people.
 * [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
 
 
-In May of 2024, the Ximera Document Class was submitted to CTAN.
+In May 2024, the Ximera Document Class was submitted to CTAN.
 
 
 
