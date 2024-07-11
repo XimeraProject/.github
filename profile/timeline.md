@@ -1,5 +1,5 @@
 # Timeline of Ximera Activity
-## Week -9: 10/23/2023 - 10/27/2023
+# Week -9: 10/23/2023 - 10/27/2023
 - Grant awarded		
 ## Week -8: 10/30/2023 - 11/3/2023
 - Programmers need to be hired
@@ -363,7 +363,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
     - Easy print styles
     - see: https://sites.google.com/view/lin-alg-interactive-intro/home
 - installed docker
-- Projec Hydra: instructions for deploying in Docker  
+- Project Hydra: instructions for deploying in Docker  
 - Met Fowler
 - Met JN
 - Programmers
@@ -393,7 +393,18 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - We can work on Xake -- and server
 - Goal of moving to gitlab
 ## Week 27: 7/1/2024 - 7/5/2024
+- Deployment is working sans sage support
+- Docker depolyment of local server is being tested
+- Flash grants were awarded. 
+- Email B. Ramsey about Flash Grant Stipend
+- Ximera Monthly Meeting 7/3 2pm
+- Contract awarded for Gradebook
 ## Week 28: 7/8/2024 - 7/12/2024
+- Met with Doenet
+- Met with WO, AD, PZ, for docker deploy. 
+  - Successifully deployed la-carte from my machine, AD deployed from their machine
+  - Quarterly waterfall diagram produced
+  - Met with Infonomics
 ## Week 29: 7/15/2024 - 7/19/2024
 ## Week 30: 7/22/2024 - 7/26/2024
 ## Week 31: 7/29/2024 - 8/2/2024
@@ -404,12 +415,14 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Week 34: 8/19/2024 - 8/23/2024
 ## Week 35: 8/26/2024 - 8/30/2024
 ## Week 36: 9/2/2024 - 9/6/2024
+- Email A. Davis about Flash Grant Stipend
 - Email P. Fatheddin about Flash Grant Stipend
 - Email J. Sheldon about Flash Grant Stipend
 ## Week 37: 9/9/2024 - 9/13/2024
 ## Week 38: 9/16/2024 - 9/20/2024
 ## Week 39: 9/23/2024 - 9/27/2024
 ## Week 40: 9/30/2024 - 10/4/2024
+- Email C. Merriman about Flash Grant Stipend
 ## Week 41: 10/7/2024 - 10/11/2024
 - Project Director Conf in October (not necessarily at this date)
 ## Week 42: 10/14/2024 - 10/18/2024
