@@ -403,6 +403,8 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with Doenet
 - Met with WO, AD, PZ, for docker deploy. 
   - Successifully deployed la-carte from my machine, AD deployed from their machine
+    - This is huge, becuase it is proof of concept that we can move away from our single deploy server.
+  - BUG in Ximera LaTeX: Image hides images!
   - Quarterly waterfall diagram produced
   - Met with Infonomics
 ## Week 29: 7/15/2024 - 7/19/2024
