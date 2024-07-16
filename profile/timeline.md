@@ -416,12 +416,26 @@ The issue is that \answer is fundamentally incompatible with tex4ht
     - Insturctor Story 4
       - k-12 Personal Identify Id is an issue
 - See if TB would be interested in helping online
+- Modulus should be able to be used as a clicker
+- Grade-my-math: 
+  - User types in a math question and an answer
+  - Output a grade.
+- Met with Evaluators
+- Met with authors and fixed author problems
+- Met with TB concerning Ximera and github pages
+- Met with CM concerning examples. Removed testing grounds.
 ## Week 29: 7/15/2024 - 7/19/2024
 - Met WO
 - Talk at TUG 2024
 - made repo ximeraDemo
 - Met CB and ZK evaluators
-- 
+- Modulus should be able to be used as a clicker
+- Grade-my-math: 
+  - User types in a math question and an answer
+  - Output a grade.
+- Met with authors and fixed author problems
+- Met with TB concerning Ximera and github pages
+- Met with CM concerning examples. Removed testing grounds.
 ## Week 30: 7/22/2024 - 7/26/2024
 ## Week 31: 7/29/2024 - 8/2/2024
 - **Second quartely report due 7/30**
