@@ -87,7 +87,7 @@ The instructor experience falls into three basic categories:
 
 #### Online Materials with LMS Integration 
 
-At OSU and UF, instructors of large classes and a few others have
+At OSU, UF, and KU Leuven instructors of large classes and a few others have
 Ximera assignments directly integrated into the Learning Management
 System (LMS). For these
 instructors, Ximera works seamlessly and invisibly.
@@ -111,10 +111,10 @@ course. The PDFs produced allow incremental development of the
 materials while still being used and tested in the classroom (not all of these repos will have fully developed PDFs). See:
 
 * [Abstract Algebra I]()
-* [Advanced Geometry]()
-* [Math for Architects]()
-* [Math for Teachers]()
-* [History of Mathematics]()
+* [Advanced Geometry](https://github.com/mooculus/advancedGeometry)
+* [Math for Architects](https://github.com/mooculus/mathForArchitects)
+* [Math for Teachers](https://github.com/mooculus/mathForTeachers)
+* [History of Mathematics](https://github.com/mooculus/historyOfMathematics)
 * [Business Calculus]()
 * [Linear Algebra and Differential Equations]()
 
