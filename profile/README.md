@@ -105,10 +105,10 @@ solution that will provide grade data for all Ximera instructors.**
 #### PDF Materials 
 
 There are a number of Ximera courses that are not yet deployed online.
-Their materials are currently only in PDF form. Instructors in this
+Their materials are currently used only in PDF form. Instructors in this
 category are usually in a development phase of their Ximera
 course. The PDFs produced allow incremental development of the
-materials while still being used and tested in the classroom. See:
+materials while still being used and tested in the classroom (not all of these repos will have fully developed PDFs). See:
 
 * [Abstract Algebra I]()
 * [Advanced Geometry]()
