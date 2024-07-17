@@ -99,7 +99,10 @@ materials while still being used and tested in the classroom (not all of these r
 - Allowing individual LaTeX activites to compile on their own while also being included as sections/chapters in book.
 - Facilitating the "hiding" of environments, this can be used to make "instuctor editions" or "solution manuals"
 - Allows numbering of the document to be set as an option in the preamble.
+
+
 For examples see:
+
 
 * [Abstract Algebra I](https://github.com/bartsnapp/abstractAlgebraI) and [PDF](https://github.com/bartsnapp/abstractAlgebraI/releases/tag/v1.0.0)
 * [Advanced Geometry](https://github.com/mooculus/advancedGeometry)
@@ -108,6 +111,12 @@ For examples see:
 * [History of Mathematics](https://github.com/mooculus/historyOfMathematics)
 * [Business Calculus](https://github.com/mooculus/business)
 * [Linear Algebra and Ordinary Differential Equations](https://github.com/mooculus/laode)
+
+Moreover, PDF materials are not limited to textbooks/worksheets. Exams can we be written in Ximera, and then their content can be used to create online interactive practice exams. *
+For and example see:
+
+* [Practice Exam](https://ximera.osu.edu/testing/exam/practiceExam) and [PDF](https://github.com/XimeraProject/examples/releases/tag/v1.0.0)
+
 
 ## Students
 
