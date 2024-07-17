@@ -101,7 +101,7 @@ materials while still being used and tested in the classroom (not all of these r
 - Allows numbering of the document to be set as an option in the preamble.
   For examples see:
 
-* [Abstract Algebra I](https://github.com/bartsnapp/abstractAlgebraI)
+* [Abstract Algebra I](https://github.com/bartsnapp/abstractAlgebraI) [PDF](https://github.com/bartsnapp/abstractAlgebraI/releases/tag/v1.0.0)
 * [Advanced Geometry](https://github.com/mooculus/advancedGeometry)
 * [Math for Architects](https://github.com/mooculus/mathForArchitects)
 * [Math for Teachers](https://github.com/mooculus/mathForTeachers)
