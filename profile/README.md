@@ -47,9 +47,9 @@ deployed online (authors, please feel free to add your course!)
 
 #### Calculus
 
-- [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1) and [source](https://github.com/mooculus/calculus)
-- [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2) and [source](https://github.com/mooculus/calculus)
-- [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3) and [source](https://github.com/mooculus/calculus)
+- [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
+- [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
+- [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
 
 #### Linear Algebra
 
@@ -99,9 +99,9 @@ materials while still being used and tested in the classroom (not all of these r
 - Allowing individual LaTeX activites to compile on their own while also being included as sections/chapters in book.
 - Facilitating the "hiding" of environments, this can be used to make "instuctor editions" or "solution manuals"
 - Allows numbering of the document to be set as an option in the preamble.
-  For examples see:
+For examples see:
 
-* [Abstract Algebra I](https://github.com/bartsnapp/abstractAlgebraI) [PDF](https://github.com/bartsnapp/abstractAlgebraI/releases/tag/v1.0.0)
+* [Abstract Algebra I](https://github.com/bartsnapp/abstractAlgebraI) and [PDF](https://github.com/bartsnapp/abstractAlgebraI/releases/tag/v1.0.0)
 * [Advanced Geometry](https://github.com/mooculus/advancedGeometry)
 * [Math for Architects](https://github.com/mooculus/mathForArchitects)
 * [Math for Teachers](https://github.com/mooculus/mathForTeachers)
@@ -122,7 +122,7 @@ Ximera is maintained by a community of people.
 
 - [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
 - [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
-- [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX development)
+- [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX Development)
 - [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
 
 In May 2024, the Ximera Document Class was submitted to CTAN.
