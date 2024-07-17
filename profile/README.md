@@ -127,7 +127,7 @@ experience for students.
 
 ## Current Development
 
-Ximera is maintained by a community of people.
+Ximera is maintained by a community of people. In particular:
 
 - [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
 - [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
@@ -135,6 +135,7 @@ Ximera is maintained by a community of people.
 - [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
 
 In May 2024, the Ximera Document Class was submitted to CTAN.
+Currently, we are working on Docker containers for both Ximera deployment and the Ximera server.
 
 ## Disclaimer
 
