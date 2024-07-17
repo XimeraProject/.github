@@ -404,7 +404,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with WO, AD, PZ, for docker deploy. 
   - Successifully deployed la-carte from my machine, AD deployed from their machine
     - This is huge, becuase it is proof of concept that we can move away from our single deploy server.
-  - BUG in Ximera LaTeX: Image hides images!
+  - BUG in Ximera LaTeX: Image hides images! (NONISSUE)
   - Quarterly waterfall diagram produced
   - Met with Infonomics
     - Instructor Story 1
