@@ -36,11 +36,12 @@ Please feel free to contact `ximera@math.osu.edu` with questions.
 ### Demo
 
 A simple demo course showing the main Ximera features can be found at 
-* [Short Demo Course](https://ximera.osu.edu/wimdemo/demo/demo/theorie) at OSU
-* [Short Demo Course](https://set.kuleuven.be/voorkennis/wimtesten/demo/demo/theorie) at KU Leuven (the same content with different styling and extended functionality)
 
+* [Short Demo Course](https://set.kuleuven.be/voorkennis/ximerademo/demo/demo/theorie) at a KU Leuven server
+* [Short Demo Course](https://ximera.osu.edu/wimdemo/demo/demo/theorie) at the OSU server (the same content with different styling and some functions not yet supported)
+  
 Both links show the same content, but with different styling. 
-This functionality is currently (summer 2024) being worked on, and is in constant evolution. A more unified and better documented Ximera release will become available in the next weeks and months.
+This functionality is currently (summer 2024) being worked on, and is in constant evolution. More unified and better documented Ximera releases will become available in the next weeks and months.
 As of July 2024, there remain some incompabibilities between the official OSU server and the KU Leuven server.
 But, both OSU, KU Leuven and some other institutions provide courses that have been running for several years.
 
