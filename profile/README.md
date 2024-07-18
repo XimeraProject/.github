@@ -4,14 +4,17 @@ Ximera, pronounced "chimera," (**X**imera: **I**nteractive,
 **M**athematics, **E**ducation, **R**esources, for **A**ll) is an
 open-source platform that provides tools for authoring and publishing
 (PDF and Online), open-source, interactive educational content, such
-as textbooks, assessments, and online courses. The Ximera Project is
+as textbooks, assessments, and online courses.  
+The Ximera Project is
 funded 2024-2026 with (no other external funding) by a $2,125,000
 [Open Textbooks Pilot
 Program](https://www2.ed.gov/programs/otp/index.html) grant. In the
 past, the Ximera Project has also recieved support from NSF Grant
 DUE-1245433, the Shuttleworth Foundation, the Ohio State University
 Department of Mathematics, and the Affordable Learning Exchange at
-OSU. **The ultimate goal of this project is to promote sustained
+OSU.  
+
+**The ultimate goal of this project is to promote sustained
 student success and savings.**
 
 Ximera is built with authors, instructors, and students in mind. We
@@ -26,15 +29,26 @@ single source code, we generate different types of output:
 ![Ximera generates a PDF worksheet, an online interactive worksheet, and a PDF solution manual.](https://github.com/XimeraProject/.github/blob/main/profile/SimultaneousOutput.jpg "Single source code generates three different outputs.")
 
 To get started as an author in Ximera, all you need is the XimeraLaTeX
-LaTeX Package. Unfortunately, at this point, this package is not part
-of CTAN. However, you can find instructions for manual installation at the [XimeraLaTeX repository](https://github.com/XimeraProject/ximeraLatex#readme).
-Please feel free to contact `ximera@math.osu.edu` with questions.
+LaTeX Package, which is available on CTAN. 
+Please feel free to contact `ximera@math.osu.edu` with questions. 
+
+### Demo
+
+A simple demo course showing the main Ximera features can be found at 
+
+* [Short Demo Course](https://set.kuleuven.be/voorkennis/ximerademo/demo/demo/theorie) at a KU Leuven server
+* [Short Demo Course](https://ximera.osu.edu/wimdemo/demo/demo/theorie) at the OSU server (the same content with different styling and some functions not yet supported)
+  
+Both links show the same content, but with different styling. 
+This functionality is currently (summer 2024) being worked on, and is in constant evolution. More unified and better documented Ximera releases will become available in the next weeks and months.
+As of July 2024, there remain some incompabibilities between the official OSU server and the KU Leuven server.
+But, both OSU, KU Leuven and some other institutions provide courses that have been running for several years.
 
 ### Online Deployment
 
 Once you have some content, you will probably want to see how it works
-online. Currently, we only deploy from a single server. As part of our
-work, we seek to make this process seamless.
+online. Currently, deployment is most conveniently done from our deployment server.
+In the near future a cloud based CI/CD infrastucture will be set up.
 
 ## Instructors
 
@@ -69,8 +83,7 @@ If an instructor experiences issues with the content or performance of the mater
 
 Morever, here is a list of [common solutions for student issues](https://github.com/XimeraProject/.github/blob/main/profile/commonSolutions.md).
 
-For other technical support, simply contact the developers at
-`ximera@math.osu.edu`.
+For other technical support, contact the developers at `ximera@math.osu.edu`.
 
 ### Use in the classroom
 
@@ -132,7 +145,7 @@ Ximera is maintained by a community of people. In particular:
 - [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
 - [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
 - [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX Development)
-- [Wim Obbles](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
+- [Wim Obbels](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
 
 In May 2024, the Ximera Document Class was submitted to CTAN.
 Currently, we are working on Docker containers for both Ximera deployment and the Ximera server.
