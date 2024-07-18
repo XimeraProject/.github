@@ -17,7 +17,6 @@ OSU.
 **The ultimate goal of this project is to promote sustained
 student success and savings.**
 
-
 Ximera is built with authors, instructors, and students in mind. We
 seek to provide an optimal work environment for all three types of
 users.
@@ -51,7 +50,6 @@ Once you have some content, you will probably want to see how it works
 online. Currently, deployment is most conveniently done from our deployment server.
 In the near future a cloud based CI/CD infrastucture will be set up.
 
-
 ## Instructors
 
 Instructors (who are not authors) can freely use any Ximera materials,
@@ -63,27 +61,23 @@ deployed online (authors, please feel free to add your course!)
 
 #### Calculus
 
-* [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1) and [source](https://github.com/mooculus/calculus)
-* [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2) and [source](https://github.com/mooculus/calculus)
-* [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3) and [source](https://github.com/mooculus/calculus)
+- [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
+- [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
+- [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
 
 #### Linear Algebra
 
-* [Linear Algebra: An Interactive Introduction](https://ximera.osu.edu/oerlinalg/LinearAlgebra) and [source](https://github.com/annadavismath/LinearAlgebraV2)
-* [Linear Algebra and Ordinary Differential Equations](https://ximera.osu.edu/laode) and [source](https://github.com/mooculus/laode)
-* [This is Linear Algebra](https://ximera.osu.edu/linearAlgebra) and [source](https://github.com/mooculus/linearAlgebra)
-
+- [Linear Algebra: An Interactive Introduction](https://ximera.osu.edu/oerlinalg/LinearAlgebra) and [source](https://github.com/annadavismath/LinearAlgebraV2)
+- [Linear Algebra and Ordinary Differential Equations](https://ximera.osu.edu/laode) and [source](https://github.com/mooculus/laode)
+- [This is Linear Algebra](https://ximera.osu.edu/linearAlgebra) and [source](https://github.com/mooculus/linearAlgebra)
 
 #### Statistics
 
-* [Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
-
-
+- [Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
 
 ### Support
 
-If an instructor experiences issues with the content or performance of the materials, there are simple ways to report these issues. 
-
+If an instructor experiences issues with the content or performance of the materials, there are simple ways to report these issues.
 
 ![Buttons that link to GitHub issues.](https://github.com/XimeraProject/.github/blob/main/profile/getHelp.png "Buttons for help.")
 
@@ -95,41 +89,46 @@ For other technical support, contact the developers at `ximera@math.osu.edu`.
 
 The instructor experience falls into three basic categories:
 
+#### Online Materials with LMS Integration
 
-#### Online Materials with LMS Integration 
+At OSU, UF, and KU Leuven instructors have Ximera assignments directly integrated into the Learning Management
+System (LMS). For these instructors, Ximera works seamlessly and invisibly.
 
-At OSU and UF, instructors of large classes and a few others have
-Ximera assignments directly integrated into the Learning Management
-System (LMS). For these
-instructors, Ximera works seamlessly and invisibly.
-
-
-#### Online Materials without LMS Integration 
+#### Online Materials without LMS Integration
 
 At other institutions using Ximera, instructors can use Ximera
 materials, and have their students complete various Ximera
-assignments.  However, data access prohibitively difficult for most
+assignments. However, data access prohibitively difficult for most
 instructors in this category. **We are currently working on finding a
 solution that will provide grade data for all Ximera instructors.**
 
+#### PDF Materials
 
-#### PDF Materials 
+There are a number of Ximera courses that are not yet deployed online. Their materials are currently used only in PDF form.
+Instructors in this category are usually in a development phase of their Ximera
+course. The PDFs produced by the [Ximera document class](https://ctan.org/pkg/ximera) allow for incremental development of
+materials while still being used and tested in the classroom (not all of these repos will have fully developed PDFs). It does this by:
 
-There are a number of Ximera courses that are not yet deployed online.
-Their materials are currently only in PDF form. Instructors in this
-category are usually in a development phase of their Ximera
-course. The PDFs produced allow incremental development of the
-materials while still being used and tested in the classroom. See:
-
-* [Abstract Algebra I]()
-* [Advanced Geometry]()
-* [Math for Architects]()
-* [Math for Teachers]()
-* [History of Mathematics]()
-* [Business Calculus]()
-* [Linear Algebra and Differential Equations]()
+- Allowing individual LaTeX activites to compile on their own while also being included as sections/chapters in book.
+- Facilitating the "hiding" of environments, this can be used to make "instuctor editions" or "solution manuals"
+- Allows numbering of the document to be set as an option in the preamble.
 
 
+For examples see:
+
+
+* [Abstract Algebra I](https://github.com/bartsnapp/abstractAlgebraI) and [PDF](https://github.com/bartsnapp/abstractAlgebraI/releases/tag/v1.0.0)
+* [Advanced Geometry](https://github.com/mooculus/advancedGeometry)
+* [Math for Architects](https://github.com/mooculus/mathForArchitects)
+* [Math for Teachers](https://github.com/mooculus/mathForTeachers)
+* [History of Mathematics](https://github.com/mooculus/historyOfMathematics)
+* [Business Calculus](https://github.com/mooculus/business)
+* [Linear Algebra and Ordinary Differential Equations](https://github.com/mooculus/laode)
+
+Moreover, PDF materials are not limited to textbooks/worksheets. Exams can we be written in Ximera, and then their content can be used to create online interactive practice exams. *
+For and example see:
+
+* [Practice Exam](https://ximera.osu.edu/testing/exam/practiceExam) and [PDF](https://github.com/XimeraProject/examples/releases/tag/v1.0.0)
 
 
 ## Students
@@ -139,28 +138,21 @@ find, even if the student is not enrolled in a course. We hope that
 authors can use our materials to make the very best possible learning
 experience for students.
 
-
-
-
-
-
 ## Current Development
 
+Ximera is maintained by a community of people. In particular:
 
-Ximera is maintained by a community of people.  
-
-* [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
-* [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
-* [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX Development)
-* [Wim Obbels](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
-
+- [Bart Snapp](https://people.math.osu.edu/snapp.14/) (Project Manager and LaTeX Development)
+- [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
+- [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX Development)
+- [Wim Obbels](https://www.kuleuven.be/wieiswie/en/person/00045050) (Frontend/LaTeX/Deployment Development)
 
 In May 2024, the Ximera Document Class was submitted to CTAN.
-
+Currently, we are working on Docker containers for both Ximera deployment and the Ximera server.
 
 ## Disclaimer
 
-*The contents of this repository were developed under a grant from the
+_The contents of this repository were developed under a grant from the
 Department of Education. However, those contents do not necessarily
 represent the policy of the Department of Education, and you should
-not assume endorsement by the Federal Government.*
+not assume endorsement by the Federal Government._
