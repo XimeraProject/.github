@@ -413,7 +413,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
       - Multiple 
     - Instructor Story 3
       - Canvas
-    - Insturctor Story 4
+    - Instructor Story 4
       - k-12 Personal Identify Id is an issue
 - See if TB would be interested in helping online
 - Modulus should be able to be used as a clicker
@@ -436,6 +436,13 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Met with authors and fixed author problems
 - Met with TB concerning Ximera and github pages
 - Met with CM concerning examples. Removed testing grounds.
+- Met with JA, JN, JF, about Doenet collaboration
+- Drafted quarterly report
+- Now thinking: 
+  - Ximera Server should be decentralized
+    - Essentially, it will only display Ximera, and report to the:
+  - Ximera gradebook should be more centralized, some open, some closed, some sharing data in aggregate
+  - Deploy should be via docker
 ## Week 30: 7/22/2024 - 7/26/2024
 ## Week 31: 7/29/2024 - 8/2/2024
 - **Second quartely report due 7/30**

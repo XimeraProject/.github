@@ -1,4 +1,4 @@
-# Welcome to the Ximera Project
+# Welcome to the Ximera Project <!-- omit in toc -->
 
 Ximera, pronounced "chimera," (**X**imera: **I**nteractive,
 **M**athematics, **E**ducation, **R**esources, for **A**ll) is an
@@ -14,9 +14,27 @@ Department of Mathematics, and the Affordable Learning Exchange at
 OSU. **The ultimate goal of this project is to promote sustained
 student success and savings.**
 
+
+
 Ximera is built with authors, instructors, and students in mind. We
 seek to provide an optimal work environment for all three types of
 users.
+
+
+- [Authors](#authors)
+  - [Online Deployment](#online-deployment)
+- [Instructors](#instructors)
+  - [Courses in Ximera](#courses-in-ximera)
+  - [Support](#support)
+  - [Use in the classroom](#use-in-the-classroom)
+    - [Online Materials with LMS Integration](#online-materials-with-lms-integration)
+    - [Online Materials without LMS Integration](#online-materials-without-lms-integration)
+    - [PDF Materials](#pdf-materials)
+- [Students](#students)
+- [Current Development](#current-development)
+- [Disclaimer](#disclaimer)
+
+
 
 ## Authors
 
@@ -32,9 +50,7 @@ Please feel free to contact `ximera@math.osu.edu` with questions.
 
 ### Online Deployment
 
-Once you have some content, you will probably want to see how it works
-online. Currently, we only deploy from a single server. As part of our
-work, we seek to make this process seamless.
+Once you have some content, you will probably want to see how it works online. At this point we have a prelimiarly deploy process via Docker. Complete instructions will be up soon, but unilt then, we advise you contact the Ximera developers at `ximera@math.osu.edu` 
 
 ## Instructors
 
@@ -45,20 +61,12 @@ deployed online (authors, please feel free to add your course!)
 
 ### Courses in Ximera
 
-#### Calculus
-
 - [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
 - [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
 - [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
-
-#### Linear Algebra
-
 - [Linear Algebra: An Interactive Introduction](https://ximera.osu.edu/oerlinalg/LinearAlgebra) and [source](https://github.com/annadavismath/LinearAlgebraV2)
 - [Linear Algebra and Ordinary Differential Equations](https://ximera.osu.edu/laode) and [source](https://github.com/mooculus/laode)
 - [This is Linear Algebra](https://ximera.osu.edu/linearAlgebra) and [source](https://github.com/mooculus/linearAlgebra)
-
-#### Statistics
-
 - [Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
 
 ### Support
