@@ -444,6 +444,8 @@ The issue is that \answer is fundamentally incompatible with tex4ht
   - Ximera gradebook should be more centralized, some open, some closed, some sharing data in aggregate
   - Deploy should be via docker
 ## Week 30: 7/22/2024 - 7/26/2024
+- Introduced to JK of https://tailorswiftbot.godaddysites.com/our-services
+- Met with KA
 ## Week 31: 7/29/2024 - 8/2/2024
 - **Second quartely report due 7/30**
 ## Week 32: 8/5/2024 - 8/9/2024
