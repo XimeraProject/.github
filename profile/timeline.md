@@ -369,7 +369,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Programmers
 - Met HR concerning evaluators
 ## Week 25: 6/17/2024 - 6/21/2024
-- Meet with AB
+- Met with AB
   - Need more presence in HS
   - Need more presence in OH
   - In the Surface/deep/transfer trichotomy, Ximera excells at Surface
@@ -446,11 +446,51 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Week 30: 7/22/2024 - 7/26/2024
 - Introduced to JK of https://tailorswiftbot.godaddysites.com/our-services
 - Met with KA
+  - KEEP Track of How many people are at MathFest/TALK Etc
+- Drafted MathFest booth slides
+- Purchased MathFest Booth equip
+- Drafted MathFest XimeraInfoSheet
+- Met Tailor Swift Bot
+- JA: List of activites
+- Met: WO
+  - Need a "firstSteps" repo
+  - write a VS code extension / settings.json
+    - Have buttons for regular users to use. DONE
+- Quarterly report submitted.
+- NEED TO Email all schools (DONE)
+- Working on TechBrief
 ## Week 31: 7/29/2024 - 8/2/2024
 - **Second quartely report due 7/30**
+  - Done
+- Ximera Office Hr.
+- multiple meetings with WO -- we think we have a deploy process
+- modulusWrapUrl( ... ) which takes a URL and wraps it in the current course contxt so if a learner leaves a modulus activity, the stay within the moduluis universe
+- Start with youtube
+- Many Ximera deploy meetings
+- Figured out how to make new gpg keys
+- purchased projector/stands/screen/power-strip
+- purchased case -- DELAYED
 ## Week 32: 8/5/2024 - 8/9/2024
+- Started hand2ximera
 - MathFest, 8/7/2024-8/24/2024, booth reserved, conf number P2NKC4J8JN6
+- 200 Handouts given away
+  - AD Presentation 50 
+  - SD Presentation 40
+  - 16 emails
+- At mathfest
+- Met Programmers -- time stamps are part of student completion data.
+  - progress a single number or a monotonic "time-series"  (we want it to be a time-series)
+  - Page state is also recorded, but one could have an empty page, and perfect score. (just most recent)
+
 ## Week 33: 8/12/2024 - 8/16/2024
+- Solved abstract issue (JN) -- needs to be commited to git
+- Help KS deploy
+- Made Big-Math 5000 Data vis
+- Help BR deploy
+- Promised to Exhibit at mathFest 25
+- Emailed LaTeX-Project and TeX4ht developers
+- Meeting Austin Acc.
+- CM documentation. 
 ## Week 34: 8/19/2024 - 8/23/2024
 ## Week 35: 8/26/2024 - 8/30/2024
 ## Week 36: 9/2/2024 - 9/6/2024
@@ -480,6 +520,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Week 53: 12/30/2024 - 1/3/2025
 - Email W. Obbels about Flash Grant Stipend
 ## Week 54: 1/6/2025 - 1/10/2025
+- JMM 1/8--1/11
 ## Week 55: 1/13/2025 - 1/17/2025
 ## Week 56: 1/20/2025 - 1/24/2025
 ## Week 57: 1/27/2025 - 1/31/2025
@@ -510,6 +551,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Week 82: 7/21/2025 - 7/25/2025
 ## Week 83: 7/28/2025 - 8/1/2025
 ## Week 84: 8/4/2025 - 8/8/2025
+- MathFest 2025 6-9.
 ## Week 85: 8/11/2025 - 8/15/2025
 ## Week 86: 8/18/2025 - 8/22/2025
 ## Week 87: 8/25/2025 - 8/29/2025

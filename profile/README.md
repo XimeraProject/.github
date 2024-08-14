@@ -6,7 +6,7 @@ open-source platform that provides tools for authoring and publishing
 (PDF and Online), open-source, interactive educational content, such
 as textbooks, assessments, and online courses.  
 The Ximera Project is
-funded 2024-2026 with (no other external funding) by a $2,125,000
+funded 2024-2026 (with no other external funding) by a $2,125,000
 [Open Textbooks Pilot
 Program](https://www2.ed.gov/programs/otp/index.html) grant. In the
 past, the Ximera Project has also recieved support from NSF Grant
