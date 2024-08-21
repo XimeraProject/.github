@@ -492,6 +492,11 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Meeting Austin Acc.
 - CM documentation. 
 ## Week 34: 8/19/2024 - 8/23/2024
+- Meet MH about TeX4ht
+- Helped people deploy
+- Ordered T-shirts
+- Connected to accessible PDF developers
+- Worked on Ximera User Manual
 ## Week 35: 8/26/2024 - 8/30/2024
 ## Week 36: 9/2/2024 - 9/6/2024
 - Email A. Davis about Flash Grant Stipend
