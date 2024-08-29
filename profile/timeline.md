@@ -498,7 +498,12 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Connected to accessible PDF developers
 - Worked on Ximera User Manual
 ## Week 35: 8/26/2024 - 8/30/2024
+- Meet with AI
+- Worked with authors
+- Set up Monthly meeting
+- Ximera Server button added to VS code
 ## Week 36: 9/2/2024 - 9/6/2024
+- Monthly meeting
 - Email A. Davis about Flash Grant Stipend
 - Email P. Fatheddin about Flash Grant Stipend
 - Email J. Sheldon about Flash Grant Stipend
