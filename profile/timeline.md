@@ -504,10 +504,22 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Ximera Server button added to VS code
 ## Week 36: 9/2/2024 - 9/6/2024
 - Monthly meeting
+- Met Tailor Swift Bot, 
+- WO, JF, TSB, BS, met with MH for TeX4ht/Make4ht support
+- mooculus/calculus compiles
+- Met with programmers
+- AI math compiles
+- Met with evaluators to construct surveys
 - Email A. Davis about Flash Grant Stipend
 - Email P. Fatheddin about Flash Grant Stipend
 - Email J. Sheldon about Flash Grant Stipend
+- Flash grant stipends awarded.
 ## Week 37: 9/9/2024 - 9/13/2024
+- GPG Key issue -- keys expired -- solved by end of week.
+- Meet David S.
+- Various tex4ht improvements
+- PF talked to Course coordinators
+- t-shirts arrived -- but error in order.
 ## Week 38: 9/16/2024 - 9/20/2024
 ## Week 39: 9/23/2024 - 9/27/2024
 ## Week 40: 9/30/2024 - 10/4/2024
