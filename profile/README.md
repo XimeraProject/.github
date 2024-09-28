@@ -9,7 +9,7 @@ The Ximera Project is
 funded 2024-2026 (with no other external funding) by a $2,125,000
 [Open Textbooks Pilot
 Program](https://www2.ed.gov/programs/otp/index.html) grant. In the
-past, the Ximera Project has also recieved support from NSF Grant
+past, the Ximera Project has also received support from NSF Grant
 DUE-1245433, the Shuttleworth Foundation, the Ohio State University
 Department of Mathematics, and the Affordable Learning Exchange at
 OSU.  
@@ -59,20 +59,20 @@ A simple demo course showing the main Ximera features can be found at
   
 Both links show the same content, but with different styling. 
 This functionality is currently (summer 2024) being worked on, and is in constant evolution. More unified and better documented Ximera releases will become available in the next weeks and months.
-As of July 2024, there remain some incompabibilities between the official OSU server and the KU Leuven server.
+As of July 2024, there remain some incompatibilities between the official OSU server and the KU Leuven server.
 But, both OSU, KU Leuven and some other institutions provide courses that have been running for several years.
 
 ### Online Deployment
 
 Once you have some content, you will probably want to see how it works
 online. Currently, deployment is most conveniently done from our deployment server.
-In the near future a cloud based CI/CD infrastucture will be set up. Until then, we advise you contact the Ximera developers at `ximera@math.osu.edu` 
+In the near future a cloud based CI/CD infrastructure will be set up. Until then, we advise you contact the Ximera developers at `ximera@math.osu.edu` 
 
 ## Instructors
 
 Instructors (who are not authors) can freely use any Ximera materials,
 **without permission**, simply by using the URL of the
-course. Here is an incomplete list of Ximera courses that have been
+course. Here is an incomplete list of Ximera courses that are
 deployed online (authors, please feel free to add your course!)
 
 ### Courses in Ximera

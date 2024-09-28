@@ -521,7 +521,18 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - PF talked to Course coordinators
 - t-shirts arrived -- but error in order.
 ## Week 38: 9/16/2024 - 9/20/2024
+- Fixed t-shirts
+- Met programmers
+- Met Tailor Swith Bot
+- Scheduled meeting with KA 
+- Helped users deploy
+- Found Compile bugs
+- MH and WO are working on TeXLive 2024 integration
 ## Week 39: 9/23/2024 - 9/27/2024
+- Meet AB
+- Meet KA
+- Reserved Booth JMM
+- Need to plan for RUME
 ## Week 40: 9/30/2024 - 10/4/2024
 - Email C. Merriman about Flash Grant Stipend
 ## Week 41: 10/7/2024 - 10/11/2024
