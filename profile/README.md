@@ -80,7 +80,7 @@ deployed online (authors, please feel free to add your course!)
 - [Calculus 1 at OSU](https://ximera.osu.edu/mooculus/calculus1), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
 - [Calculus 2 at OSU](https://ximera.osu.edu/mooculus/calculus2), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
 - [Calculus 3 at OSU](https://ximera.osu.edu/mooculus/calculus3), [PDF](https://github.com/mooculus/calculus/releases/tag/v1.0.0), and [source](https://github.com/mooculus/calculus)
-- [Linear Algebra: An Interactive Introduction](https://ximera.osu.edu/oerlinalg/LinearAlgebra) and [source](https://github.com/annadavismath/LinearAlgebraV2)
+- [Linear Algebra: An Interactive Introduction](https://sites.google.com/view/lin-alg-interactive-intro/home) and [source](https://github.com/annadavismath/LinearAlgebraDZ)
 - [Linear Algebra and Ordinary Differential Equations](https://ximera.osu.edu/laode) and [source](https://github.com/mooculus/laode)
 - [This is Linear Algebra](https://ximera.osu.edu/linearAlgebra) and [source](https://github.com/mooculus/linearAlgebra)
 - [Quality Control Topics for Introductory Statistics and Manufacturing Courses (funded by Intel)](https://ximera.osu.edu/qcstats/QC_stats) and [source](https://github.com/annadavismath/QC_stats)
@@ -114,10 +114,10 @@ solution that will provide grade data for all Ximera instructors.**
 
 #### PDF Materials
 
-There are a number of Ximera courses that are not yet deployed online. Their materials are currently used only in PDF form.
+There are a number of Ximera courses that are not yet deployed online. Their materials are currently used only in \PDF\ form.
 Instructors in this category are usually in a development phase of their Ximera
 course. The PDFs produced by the [Ximera document class](https://ctan.org/pkg/ximera) allow for incremental development of
-materials while still being used and tested in the classroom (not all of these repos will have fully developed PDFs). It does this by:
+materials while still being used and tested in the classroom (not all of these repos will have fully developed \PDF\s). It does this by:
 
 - Allowing individual LaTeX activites to compile on their own while also being included as sections/chapters in book.
 - Facilitating the "hiding" of environments, this can be used to make "instuctor editions" or "solution manuals"
