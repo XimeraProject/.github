@@ -535,9 +535,24 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Need to plan for RUME
 ## Week 40: 9/30/2024 - 10/4/2024
 - Email C. Merriman about Flash Grant Stipend
+- Met with users 
+- Worked on TUG Paper -- did not finish.
 ## Week 41: 10/7/2024 - 10/11/2024
 - Project Director Conf in October (not necessarily at this date)
+- WO demos VS Code / Docker in the browser
+- Had Ximera Office Hours
+- Meeting with Users
+- Meeting with TSB
+- Set up stragic meeting with core developers.
+- Anna Davis OCTM on 10/10 and 10/11. Advertising math teacher PD for Ohio Dominican.  One of the courses, “Topics in Statistical Process Control” features Ximera modules that we made for Intel.  (https://ximera.osu.edu/qcstats)  I got 3 teachers to sign up for my statistical process control PD next semester.  (That's the one that uses Ximera)  I think that teachers might be interested in Ximera as a tool, especially for CCP courses, but probably wouldn't want to author.  If we have a library of things to advertise, it might make sense to attend next year.  The conference will be in Dayton next year.
 ## Week 42: 10/14/2024 - 10/18/2024
+- Met WO and MH and JF about codespaces
+- Mailed T-Shirts
+- Proposed WO create development environment
+- met JK of TSB
+- Helped PZ
+- Evaluator Surveys Mailed!
+- 
 ## Week 43: 10/21/2024 - 10/25/2024
 ## Week 44: 10/28/2024 - 11/1/2024
 ## Week 45: 11/4/2024 - 11/8/2024
