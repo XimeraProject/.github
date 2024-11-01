@@ -552,9 +552,16 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - met JK of TSB
 - Helped PZ
 - Evaluator Surveys Mailed!
-- 
 ## Week 43: 10/21/2024 - 10/25/2024
+- NEED TO CONTACT: https://www.r-exams.org/contact/
+- NEED TO DO JMM
+- https://pwd.aa.ufl.edu/intersections/   LET'S APPLY
 ## Week 44: 10/28/2024 - 11/1/2024
+- Quarterly report submitted
+- Contacted overleaf
+- Office hour link sent https://www.when2meet.com/?27331091-wnlFH
+- Emailed HR and KA about development environment
+- 
 ## Week 45: 11/4/2024 - 11/8/2024
 ## Week 46: 11/11/2024 - 11/15/2024
 ## Week 47: 11/18/2024 - 11/22/2024
@@ -569,6 +576,10 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Email W. Obbels about Flash Grant Stipend
 ## Week 54: 1/6/2025 - 1/10/2025
 - JMM 1/8--1/11
+  - 1/8 6:00pm--8pm Exhibition hall
+  - 1/9 9am--5pm
+  - 1/10 9am--5pm
+  - 1/11 9am--12 noon
 ## Week 55: 1/13/2025 - 1/17/2025
 ## Week 56: 1/20/2025 - 1/24/2025
 ## Week 57: 1/27/2025 - 1/31/2025
