@@ -543,7 +543,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Had Ximera Office Hours
 - Meeting with Users
 - Meeting with TSB
-- Set up stragic meeting with core developers.
+- Set up meeting with core developers.
 - Anna Davis OCTM on 10/10 and 10/11. Advertising math teacher PD for Ohio Dominican.  One of the courses, “Topics in Statistical Process Control” features Ximera modules that we made for Intel.  (https://ximera.osu.edu/qcstats)  I got 3 teachers to sign up for my statistical process control PD next semester.  (That's the one that uses Ximera)  I think that teachers might be interested in Ximera as a tool, especially for CCP courses, but probably wouldn't want to author.  If we have a library of things to advertise, it might make sense to attend next year.  The conference will be in Dayton next year.
 ## Week 42: 10/14/2024 - 10/18/2024
 - Met WO and MH and JF about codespaces
@@ -554,38 +554,140 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Evaluator Surveys Mailed!
 ## Week 43: 10/21/2024 - 10/25/2024
 - NEED TO CONTACT: https://www.r-exams.org/contact/
-- NEED TO DO JMM
 - https://pwd.aa.ufl.edu/intersections/   LET'S APPLY
 ## Week 44: 10/28/2024 - 11/1/2024
 - Quarterly report submitted
 - Contacted overleaf
 - Office hour link sent https://www.when2meet.com/?27331091-wnlFH
 - Emailed HR and KA about development environment
-- 
+- Got JMM Hotel
+- Possible VR/AR Connection
 ## Week 45: 11/4/2024 - 11/8/2024
+- Met with programmers
+- Modulus -- a single LTI tool for many things.
+- Office Hours 
+- Met with HR
+- Emailed HR and KA about development environment
+- Meet HR about
+  - Development Environ
+  - Infonomics
+  - Teaching release
+  - t-shirts
+- Programmers understand LTI 1.3 -- 
 ## Week 46: 11/11/2024 - 11/15/2024
+- Met KA
+- Approval for WO and developer environment
+- TSB gave talks (maybe last week)
+- Emailed EW about AB
 ## Week 47: 11/18/2024 - 11/22/2024
+- Meet PF to help deploy
+- Emailed EW about AB
+- Moving fwd with developer environment
 ## Week 48: 11/25/2024 - 11/29/2024
+- Meeting with Programmers WO
+  - replicate current nearly broken behavior
+  - Wim and Jim need to meet
+  - Programmers and Wim need to chat
+- Meeting JK of TSB
+- NEED TO SUBMIT PROPOSAL FOR:  https://pwd.aa.ufl.edu/intersections/ see
+  -  https://pwd.aa.ufl.edu/intersections/call-for-proposals/
+- 
 ## Week 49: 12/2/2024 - 12/6/2024
 - Jason Nowell New validators
+- Met other OPT
+- Ximera office hrs
+- Met JK of TSB
+- Contaced by desmos
+- Ordered T-shirts (replacement)
+- LA meeting: https://webwork.maa.org/wiki/Open_Problem_Library
+  - convert to ximera
+- Met AB
+- Met JN DC about UF Conf
 ## Week 50: 12/9/2024 - 12/13/2024
+- CM: Clean up repos
+  - ximeraFirstSteps
+  - ximeraNewProject
+  - ximeraExperimental
+  - ximeraNewProject
+  - Frontpage
+- JK gave talk. 
+  - Linear Algebra Done Right
+  - Birkhouser
+  - 210 (500 registered), youtube Jenny Sheldon saw it.
+- TSB JK Webinar
+  - December 10th, 3-4:15 Eastern Standard Time
+  - https://events.zoom.us/ev/Amn0B__oVNsCf4193p5BO5YkiKRBORUS-o13IpSDbwcsMH-BWwrX~ApVZDpqFopXf2inWbHZ-2mbf0syXqPAJE616MvrLNcUrrC5AbVFA4rZaHxhujcBvy5Qyrpup3WodXRaZNV90bMSqSA
+- Met Desmos folks
+  - API is changing
+  - MOU so we can use for free
+  - Blurb so that others know that they need permission to use
+- Contacted Blackwell concerning dates of XW
+- Applied for MathFest Workshop
+- 
 ## Week 51: 12/16/2024 - 12/20/2024
-- Email A. Incognito about Flash Grant Stipend
+- Got dates for XW: 
+- Worked on Manual
+- JK finished first flash grant
+- JMM Power
+- Sent T-shirts
 ## Week 52: 12/23/2024 - 12/27/2024
+- Worked on Manaul -- published online and to lulu
+- NEED TO FIGURE OUT XWX !!!!
+- https://www.lulu.com/shop/jason-nowell-and-wim-obbels-and-jim-fowler-and-bart-snapp/ximera-user-manual/paperback/product-jeqd9wg.html?page=1&pageSize=4
+- https://go.osu.edu/xman
+- https://ximera.osu.edu/xman
+- https://calendly.com/ed-kurrinn-abrams/30min is KU Calendly link
+  - Scheduled meetings for Thurs 1/2 and Thurs 1/9
 ## Week 53: 12/30/2024 - 1/3/2025
 - Email W. Obbels about Flash Grant Stipend
+- Meet CH @ Budget 
+  - Need to write new budget justficiation: 
+    - Expand Flash Grants to include Discrete Concrete improvemnets to the Ximera server/development/accessibility
+    - 
 ## Week 54: 1/6/2025 - 1/10/2025
 - JMM 1/8--1/11
+- Check-in Wed, Jan 8, 2025 Checkout Sat, Jan 11, 2025
   - 1/8 6:00pm--8pm Exhibition hall
   - 1/9 9am--5pm
   - 1/10 9am--5pm
   - 1/11 9am--12 noon
+- Mike W. Wants the worlds largest problem bank
+  - We would like to solve this using Modulus
+  - Modulus could provide "tags" for problems
+- Get rid of GPG keys -- deploy to special/named-branch of github.
+  - xmPages
+  - the ximera server will have github token, to access api
+  - Deployment ownership will be detemined by github repo ownership. 
+- NEED to make workshop page
+- Working on Overleaf integration
+- Accepted to give workshop at mathfest 2025
+  - https://connect.maa.org/events/event-description?CalendarEventKey=90ff0df5-a254-4ced-83c0-0189d69ada0c&Home=%2Fhome
 ## Week 55: 1/13/2025 - 1/17/2025
+- MEET KA
+  - How much travel? 
+  - Supplies?
+- REFACTORING XAKE to LUA
 ## Week 56: 1/20/2025 - 1/24/2025
+- Meet with WO concerning LuaXake
+- Ximera developer meeting
+  - Multilinguial support
+- Gave talk to EE Club featuring Ximera (11 participants)
 ## Week 57: 1/27/2025 - 1/31/2025
+- JN @ multilingual
+- MCA 25 meeting
+- Helped users
+- Talked to Math Advisory Board
+- CM on website
+- Workshop planned. (https://ximera.org)
 ## Week 58: 2/3/2025 - 2/7/2025
+- Met HR
+- Met Linear algebra group - Ximera is key here
+- Redeploying MOOCULUS
+- Wim Obbels assist
 ## Week 59: 2/10/2025 - 2/14/2025
 ## Week 60: 2/17/2025 - 2/21/2025
+- UF Intersections Conf: 2/19-2/21
+  - https://pwd.aa.ufl.edu/intersections/
 ## Week 61: 2/24/2025 - 2/28/2025
 ## Week 62: 3/3/2025 - 3/7/2025
 ## Week 63: 3/10/2025 - 3/14/2025
@@ -608,9 +710,13 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Week 80: 7/7/2025 - 7/11/2025
 ## Week 81: 7/14/2025 - 7/18/2025
 ## Week 82: 7/21/2025 - 7/25/2025
+-MCA 2025
+  - https://www.mca2025.org/event/9e9666dd-2643-423b-b343-91f10f36e686/mca-2025
 ## Week 83: 7/28/2025 - 8/1/2025
 ## Week 84: 8/4/2025 - 8/8/2025
 - MathFest 2025 6-9.
+- Giving workhshop
+- https://connect.maa.org/events/event-description?CalendarEventKey=90ff0df5-a254-4ced-83c0-0189d69ada0c&Home=%2Fhome
 ## Week 85: 8/11/2025 - 8/15/2025
 ## Week 86: 8/18/2025 - 8/22/2025
 ## Week 87: 8/25/2025 - 8/29/2025
@@ -648,6 +754,7 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 ## Week 119: 4/6/2026 - 4/10/2026
 ## Week 120: 4/13/2026 - 4/17/2026
 ## Week 121: 4/20/2026 - 4/24/2026
+* The Web Content Accessibility Guidelines (WCAG) Version 2.1, Level AA
 ## Week 122: 4/27/2026 - 5/1/2026
 ## Week 123: 5/4/2026 - 5/8/2026
 ## Week 124: 5/11/2026 - 5/15/2026
