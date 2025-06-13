@@ -44,9 +44,7 @@ reasonable by ensuring that PDF's are created for releases. Make
 - See https://github.com/mooculus/mathForArchitects
 - Emailed times to meet program director.
 - Fowler and Snapp discussed, accessibility / tex4ht 
-The issue is that \answer is fundamentally incompatible with tex4ht
-- Met with DoeNet group -- 
-- Grade book course markdown mock-up (this has been superseded by example here:  https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUFQc25zoRlEs3WDey51rOIBij3GwZ0Sunoa3e0w4HRzdg?e=ZP3bhP     )
+The issue is that \answer is fhttps://github.com/ximeraProject/ximeraFirstStepsock-up (this has been superseded by example here:  https://buckeyemailosu-my.sharepoint.com/:w:/g/personal/snapp_14_osu_edu/EUFQc25zoRlEs3WDey51rOIBij3GwZ0Sunoa3e0w4HRzdg?e=ZP3bhP     )
 
 ```
 - DOENET Course 
@@ -684,25 +682,141 @@ The issue is that \answer is fundamentally incompatible with tex4ht
 - Met Linear algebra group - Ximera is key here
 - Redeploying MOOCULUS
 - Wim Obbels assist
+- Met Infonomic
+- https://research.osu.edu/proposal-development-and-submission/sponsors/working-federal-agencies/2025-federal-administration
+- https://www.highergov.com/people/margarita-dot-melendez-ed-dot-gov/
+- Office Hrs (5)
 ## Week 59: 2/10/2025 - 2/14/2025
+- Encountered "hang" on serve with OSU server. 
+  - Debugging
+- Helped BF deploy
+- Conacted MathFest
+- LE (HS 10)
+- Contacted Carmen
+- Ximera AB meeting
+  - Continue on
+  - Advice about APR
+- APR Documents found
+- PZ and possible more Ximera
 ## Week 60: 2/17/2025 - 2/21/2025
 - UF Intersections Conf: 2/19-2/21
   - https://pwd.aa.ufl.edu/intersections/
+- Contacted ASU
+- Several talks @ Ximera given
+- LUA-Parallel!
+
 ## Week 61: 2/24/2025 - 2/28/2025
+- Met with JK
+- Met with PO at DOEd
+- Scheduled meeting for next week
+- Wim @ parallel / calculus / posterstyle
+- Met ASU faculty
+- Lua parallel merged
+- - git tag  v2.6.5
+  - git push origin tag  v2.6.5
+- MathFest Booth ZTNC8H8M5QV
 ## Week 62: 3/3/2025 - 3/7/2025
+- Met Programmers
+  - For Carmen Integration
+    - Securtiy ASC for security: David Sweasey sweasey.1@osu.edu
+    - https://it.osu.edu/security/services/third-party-security-risk-assessments
+    - https://it.osu.edu/security/cloud-registries/cloud-assessment-registry
+    - Accessibity
+    - https://www.ohioattorneygeneral.gov/Business/Commercialization/Essential-Terms
+- Met DOEd
+- Ximera Office Hour
+- legal (terms of use!)
+- Email Wim about "Virtural Support Desk"
+- Met CJ
+  - gathering additional data
 ## Week 63: 3/10/2025 - 3/14/2025
+- Met Nate Taylor
+- Met Wim, discussed virtural help desk
+- Reached out to ASU
 ## Week 64: 3/17/2025 - 3/21/2025
+- Met MCA 2025
+  - want a webpage with abstract/picture etc
+  - Workshop by May 14
+  - Slide with picture/abstract etc.
+    - ISSUE
+    - users entered abstracts into form
+    - minor latex typos
+    - Make order easy to change
+- Met ASC
+  - 
+- Met JK
+  - UDL Recommendations
+- Met Evaluators
 ## Week 65: 3/24/2025 - 3/28/2025
+- Office HR DoEd 25th? CANCELED
+- Met AD, JK
+- modulus Logo
+- schedule ximera office hours
 ## Week 66: 3/31/2025 - 4/4/2025
+- Met with Z: ER
+- Modulus design finalization
+- Talk What is advanced math for anyway (30 participants)
 ## Week 67: 4/7/2025 - 4/11/2025
+- met JK
+- met DOEd
+- Ximera office hours
+- Ximera workshop applications
+- Work on APR
+- MCA 2025
+  - Anna D.
+  - Paul Z.
+  - Jim T.
+  - Tae Eun
+  - Jeff K.
 ## Week 68: 4/14/2025 - 4/18/2025
+- Modulus meet
+- JK 
 ## Week 69: 4/21/2025 - 4/25/2025
+- Met Wim/NT
+- Cleaned up website
+- DoEd Office hrs
 ## Week 70: 4/28/2025 - 5/2/2025
+- APR
+- Modulus meet
+- JK Finished 
 ## Week 71: 5/5/2025 - 5/9/2025
+- Met Modulus
+- Scheduled Workshop
+  - invited ASC Tech etc
+- Fowler / Snapp met
+- Ximera Office Hours ~ 8 in attendance 
+- Arranged for travel to MCA
+- Talk (Snapp): What is Advanced Math For? (State Science Day at OSU, 150 in attendance)
 ## Week 72: 5/12/2025 - 5/16/2025
+- Ximera workshop
+  - Update Ximera Manual
+  - Revamp Ximera CLS
+  - Get new server
+  - Connect to Modulus
+  - We should have it display OUR answer, not their answer. 
+    - How much is 1+1, 1+1 is correct, but we should diplay 2.
+    - This is much more helpful.
+  - OSU Canvas
+    - We need to figure out how to proceed
+    - Infomics host canvas
+    - put students into it
 ## Week 73: 5/19/2025 - 5/23/2025
+- Worked on integrating CLS changes
+- Worked on Ximera User Manual
+- Worked on APR
 ## Week 74: 5/26/2025 - 5/30/2025
+- Worked on integrating CLS changes
+- Worked on Ximera User Manual
+- Various user support
+- Worked on APR
+- Wim/JK paid
+- Hotel/flights MCA 25
 ## Week 75: 6/2/2025 - 6/6/2025
+- Ximera CLS developer meeting (6/4)
+- Patched JS
+- Fixed AI
+- JN working on testing/ximera examples 
+- Meeting about critical Ximera commands \pdfOnly \htmlOnly onlyHtml onlyPdf
 ## Week 76: 6/9/2025 - 6/13/2025
 ## Week 77: 6/16/2025 - 6/20/2025
 ## Week 78: 6/23/2025 - 6/27/2025

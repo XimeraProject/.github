@@ -156,7 +156,8 @@ Ximera is maintained by a community of people. In particular:
 - [Jim Fowler](https://kisonecat.com/) (Frontend/Backend Development)
 - [Jason Nowell](https://www.jasonnowell.com/home) (Answer-type/LaTeX Development)
 - [Wim Obbels](https://www.kuleuven.be/wieiswie/en/person/00045050) (DevOps: Frontend/LaTeX/Deployment Development)
-
+- [Jeff Kuan](https://tailorswiftbot.com/) (Accessibility Specialist)
+  
 In May 2024, the Ximera Document Class was submitted to CTAN.
 Currently, we are working on Docker containers for both Ximera deployment and the Ximera server.
 
