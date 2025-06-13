@@ -114,7 +114,7 @@ solution that will provide grade data for all Ximera instructors.**
 
 #### PDF Materials
 
-There are a number of Ximera courses that are not yet deployed online. Their materials are currently used only in \PDF\ form.
+There are a number of Ximera courses that are not yet deployed online. Their materials are currently used only in PDF form.
 Instructors in this category are usually in a development phase of their Ximera
 course. The PDFs produced by the [Ximera document class](https://ctan.org/pkg/ximera) allow for incremental development of
 materials while still being used and tested in the classroom (not all of these repos will have fully developed \PDF\s). It does this by:
