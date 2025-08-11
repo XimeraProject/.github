@@ -818,19 +818,71 @@ The issue is that \answer is fhttps://github.com/ximeraProject/ximeraFirstStepso
 - JN working on testing/ximera examples 
 - Meeting about critical Ximera commands \pdfOnly \htmlOnly onlyHtml onlyPdf
 ## Week 76: 6/9/2025 - 6/13/2025
+- Merge of cls done
+- Discord setup
+- VSD (Wim) paperwork done
+- Working on Manual
+- working on cosmetic changes to CLS
+- working on APR
+- Awarded Flash grants
+- JK is developer: Accessibility Specialist
 ## Week 77: 6/16/2025 - 6/20/2025
+- APR Submitted
+- Quarterly report submitted
+- Triage Meeting
+  - Wim: Auto Generate GPG
+  - Jason: Link/Footnote and bleed
+  - Bart: TOC
+    - once Wim is done, fix XimeraFirstSteps, then fix Manual
+    - once Boxes, Manual will be documented
+    - Document "outcomes" and "localization"
+    - 
 ## Week 78: 6/23/2025 - 6/27/2025
+- Developer workflow documented
+- CLS work and testing
+- Plans for MCA and mathfest
 ## Week 79: 6/30/2025 - 7/4/2025
+- Flash grant for work of sage cell server setup.
+- Met AB Board
+- V 1.5 of ximera manual released. 
 ## Week 80: 7/7/2025 - 7/11/2025
+- Worked on Ximera examples
+- Had accessibility meeting with OSU
+- SZ - plan
+- Manual revisions
 ## Week 81: 7/14/2025 - 7/18/2025
+- Requested new server
+- Worked with Ximera developers
 ## Week 82: 7/21/2025 - 7/25/2025
--MCA 2025
+-MCA 2025 (~1000 participants)
+- Ximera: LaTeX-Based Online Interactive Activities
+  - Jeff Kuan, Jason Nowell, Bart Snapp (~20) participants.
   - https://www.mca2025.org/event/9e9666dd-2643-423b-b343-91f10f36e686/mca-2025
+- Ximera in the Classroom (~10 participants) (Davis, Talamo, Zachlin)
+- 21 Signups/t-shirts
+- 25 manuals given away
+- 100 tech briefs
 ## Week 83: 7/28/2025 - 8/1/2025
+- Submitted quarterly report
+- Got Wim As tech support
+- moving ball with TSB
+- Meet modulus
+- met student worker
 ## Week 84: 8/4/2025 - 8/8/2025
-- MathFest 2025 6-9.
-- Giving workhshop
+- MathFest 2025 6-9. (~1500 participants)
+- Giving workshop
+- 150 TechBriefs
+- 40 Manuals Given away
+- Signups?
 - https://connect.maa.org/events/event-description?CalendarEventKey=90ff0df5-a254-4ced-83c0-0189d69ada0c&Home=%2Fhome
+- P. Zachlin. Using Spreadsheets to Teach Numerical Methods. 
+  - 30 participants
+- A. Davis. The Central Limit Theorem in the Context of Manufacturing Applications.
+  - 30 Participants
+- Get Started in Ximera
+  - 60 Participants
+- Ximera: Sigmaa Business meeting
+  - 15 Participants
 ## Week 85: 8/11/2025 - 8/15/2025
 ## Week 86: 8/18/2025 - 8/22/2025
 ## Week 87: 8/25/2025 - 8/29/2025
