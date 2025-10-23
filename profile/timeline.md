@@ -30,10 +30,7 @@ to see their work deployed online.
 - Evaluators need to be hired.
 - When do announcements need to go out for the 
   - Stipends?
-  - Evaluators?
-  - Programmer?
-- Need to add courses to https://github.com/XimeraProject
-- Need to add "Releases" to PDF only ximera courses
+  - Evaluators?https://github.com/XimeraProject/ximeraLatex/tree/master/luaxakea courses
 - Add math and music as PDF only
 - Got the Project Profile document (Due 12/31/2023 - Week 0)
 - According to https://www.ams.org/journals/notices/202301/rnoti-p68.pdf tex4ht is still good.
@@ -884,16 +881,60 @@ The issue is that \answer is fhttps://github.com/ximeraProject/ximeraFirstStepso
 - Ximera: Sigmaa Business meeting
   - 15 Participants
 ## Week 85: 8/11/2025 - 8/15/2025
+- Met Authors (JS/F)
+- Ximera Developer meeting (W,J,B,TSB)
+- Make blog: https://makezine.com/article/education/makers-at-mathfest/
+- worked with new authors
 ## Week 86: 8/18/2025 - 8/22/2025
+- Met developers accessibility
+- Met make
+- Helped authors
 ## Week 87: 8/25/2025 - 8/29/2025
+- Accessibility meeting
+- Met developers
+- TSB
+- Mooculus issues
+- Plan JMM folks
 ## Week 88: 9/1/2025 - 9/5/2025
+- Meet Librarian
+- Schedule office hrs
 ## Week 89: 9/8/2025 - 9/12/2025
+- Ximera office hours
+- Discussions JK @ accessibilty
+- Set up meeting with KA
+- Student issues
 ## Week 90: 9/15/2025 - 9/19/2025
+- Met KA
+- Met Infonomic
+- Helped authors
+- 
 ## Week 91: 9/22/2025 - 9/26/2025
+- SS Studnet helper set up
+- Jason N 
+- Set up AB meeting
+- COI distaster with TSB
 ## Week 92: 9/29/2025 - 10/3/2025
+- Meet WS
+- Met infonomic
+- LA
 ## Week 93: 10/6/2025 - 10/10/2025
+- WIM solved GRAPH!!!
+- Could we get a good runner to compile github
+- Can we use OSU.
+- met with SS
+- emailed NS @ ab
 ## Week 94: 10/13/2025 - 10/17/2025
+- Met Neil Soiffer of mathcat
+- Met Wim/Jim -- OVERLEAF
+- Met Jason Jeff Wim, Accessibility
+- Working on deploying and author issues
+- 
 ## Week 95: 10/20/2025 - 10/24/2025
+- Met OER Consortium
+- Reconnected with NS
+- Met @ accessibility (several times)
+- Met developer, \altText OR key-value alt
+- SZ continuing/with student worker
 ## Week 96: 10/27/2025 - 10/31/2025
 ## Week 97: 11/3/2025 - 11/7/2025
 ## Week 98: 11/10/2025 - 11/14/2025
